@@ -1,0 +1,6705 @@
+<==========================900start==============================>
+
+该书下载自书部落-分享计算机经典巨著!--www. !--www.shubulo. com!^.com!仅供试看
+Bibliography
+参考文献
+"AC Coding Standard. "1991. Unix Review Aristotle. The Ethics of Aristotle: The Nicoma-
+9, no.(September): 42-43.
+chean Ethics. Trans. by J.A.K. Thomson.
+Abdel-Hamid, Tarek. 1989. "The Dynam-
+Rev. by Hugh Tredennick. Harmond-
+ics of Software Project Staffing: A System 1976.
+sworth, Middlesex, England: Penguin,
+Dynamics Based Simulation Approach."
+IEEE Transactions on Software Engineer- Armenise, Pasquale. 1989. "A Structured
+ing SE-15, no. 2 (February): 109-19
+Approach to Program Optimization."
+Abran, Alain, et al. 2001. Swebok: Guide to
+IEEE Transactions on Software Engineer-
+the Software Engineering Body of Knowl-
+ing SE-15, no. 2 (February): 101-8
+edge: Trial Version 1.00-May 2001. Los Arnold, Ken, James Gosling, and David
+Alamitos, CA: IEEE Computer Society
+Holmes. 2000. The Java Programming
+Press
+Language, 3d ed. Boston, MA: Addis
+Abrash, Michael. 1992. "Flooring It:The
+Wesley.
+Optimization Challenge." PC Techniques Arthur Lowell. 1988. Software Evolution:
+2, no.(February/March): 82-88.
+The Software Maintenance Challenge. New
+Ackerman,. Frank, Lynne S. Buchwald
+York, NY: John Wiley Sons.
+and Frank. Lewski. 1989. "Software Augustine, N. R. 1979. "Augustine's Laws
+Inspections: An Effective Verification
+Process."IEEE Software, May/June
+e and sDefense Systems Management
+major System Development Pro
+g
+1989,31-36.
+Review: 50-76
+Adams, James L. 2001. Conceptual Block- Babich, W. 1986. Software Configuration
+busting: A
+Guide
+Management. Reading, MA: Addison-
+Cambridge, MA: Perseus
+Wesley.
+Aho, Alfred V., Brian W. Kernighan, and Bachman Charles W. 1973. "The Program-
+Peter J. Weinberg. 1977. The AWK Pro
+mer as Navigator." Turing Award Lec-
+gramming Language. Reading, MA
+ng, MA: ture. Communications of the ACM 16, no
+Addison-Wesley.
+11(November): 653.
+Aho, Alfred V., John E. Hopcroft, and Jef-Baecker Ronald M., and Aaron Marcus
+frey D. Ullman, 1983. Data Structures
+1990, Human Factors and Typography for
+and Algorithms. Reading, MA: Addison-
+More Readable Programs. Reading, MA:
+Wesley.
+Addison-Wesley.
+Albrecht, Allan J. 1979. "Measuring Appli- Bairdain E. F. 1964. "Research Studies of
+cation Development Productivity. Pro-
+Programmers and Programming."Un-
+ceedings of the Joint SHARE/GUIDE/IBM
+publithed studies reported in Boehm
+Application Development Symposium, Oc-1981
+tober1979:83-92
+Baker, F. Terry, and Harlan D. Mills. 1973
+Ambler, Scott. 2003. Agile Database Tech
+niques. New York,ny John Wiley&
+"Chief Progmecmererfams."Datamation
+19, no. 12(December): 58-61.
+Sons.
+Anand, N. 1988. "Clarify Function!" ACM
+Barbour, lan G. 1966. Issues in Science and
+Sigplan Notices 23, no. 6 (une): 69-79
+Religion. New York,ny: Harper&row
+代丈(第2版)
+
+<==========================900end ==============================>
+<==========================901start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--www. ! -www.shub.com!仅供试看
+864
+参考文献
+Barbour, lan G. 1974. Myths, Models, and Bastani. Farokh, and Sitharama lyengar.
+Paradigms: A Comparative Study in Sci-
+1987. "The Effect of Data Structures on
+ence and Religion. New York, NY: Harper the Logical Complexity of Programs."
+Row.
+Communications of the ACM 30, no. 3
+Barwell, Fred, et al. 2002. Professic
+(March):250-59.
+VB. NET, 2d ed. Birmingham, UK: Wrox. Bays Michael. 1999. Software Release Meth
+Basili,. R., and B. T. Perricone. 1984. "Soft- odology. Englewood Cliffs, N]: Prentice
+ware Errors and Complexity: An
+cal Invesigation. "Communications
+e Beck, Kent. 2000. Extreme Programming Ex
+ACM 27, no.
+plained: Embrace Change. Reading, MA:
+Basili, Victor, and Albert J. Turner. 1975. Addison-Wesley.
+"Iterative Enhanceme
+A Practical Beck, Kent. 2003. Test-Driven Development:
+Technique for Softwar
+By Example. Boston, MA: Addison-Wes-
+IEEE Transactions on Software Engineer
+ey.
+ing SE-1, no.(December): 390-96
+Beck, Kent. 1991. "Think Like An Object."
+Basili, Victor R., and Davi
+s. 1984. Unix Review 9, no. 10(October): 39-43
+"A Methodology for Collecting valid Beck, Leland, and Thomas E. Perkins.
+Software Engineering D
+983. A Survey of Software Engineering
+actions on Software engineering SE-10, no. Practice: Tools, Methods, and Results.
+6(November): 728-38
+IEEE Transactions on Software Engineer.
+Basili, Victor R., and Richard W. Selby.
+ing SE-9, no.(September): 541-61
+1987. "Comparing the Effectiveness of Beizer, Boris. 1990. Software Testing Tech
+Software Testing Strategies." [EEE Trans-
+actions on Software Engineering SE-13, no
+niques, 2d ed. New York, NY: Van N
+12(December):1278-96
+trand Reinhold.
+Basili, Victor R., et al. 2002. "Lessons
+erate Programming." Communications of
+leamed from 25 years of process im- the ACM 29, no. 5 (May): 364-69.
+provement: The Rise and Fall of the
+NASA Software Engineering Laborato
+borato- Bentley. Jon, Donald Knuth, and Doug
+ry,"Proceedings of the 24th International
+Mcllroy. 1986. "A Literate Program."
+Conference on Software Engineering,
+ommunications of the ACM 29, no.5
+Orlando, FL
+(May):471-83
+Basili, Victor R., Richard. Selby, and Dav- Bentley Jon. 1982. Writing EFfficient Pro-
+id H. Hutchens. 1986. "Experimentation
+grams. Englewood Cliffs, NJ:Prentice
+in Sottware Engineering." IEEE Transac-
+Hall.
+tions on Software Engineering SE-12, no. 7 Bentley,
+uly):733-43
+tley. Jon. 1988. More Programming
+Pearls: Confessions of a Coder. Reading,
+Basili, Victor, L. Briand, and W.L. Melo. MA: Addison-Wesley
+1996. " Validation of Object-Oriented Bentley, Jon. 1991. "Software Exploratori
+Design Metrics as Quality Indicators,
+um: Writing Efficient Programs. Unix
+IEEE Transactions on Software Engineer-
+ing, October 1996, 751-761
+Review 9, no. 8(August): 62-73
+Bentley, Jon. 2000. Programming Pearls, 2d
+Bass, Len, Paul Clements, and Rick Ka-ed. Reading. MA: Addison-Wesley.
+zman. 2003. Software Architecture in
+Practice, 2d ed. Boston, MA: Addison-
+Wesley.
+代码大全(第2版)
+
+<==========================901end ==============================>
+<==========================902start==============================>
+
+该书下载自书部落分享计算机经典巨著!--www. ! --www.shubulo.com!^^.com!仅供试看^
+参考文献
+865
+Berczuk, Stephen P. and Brad Appleton. Boehm, Barry W. 1981. Software Engineering
+2003. Software Configuration Manage- Economics Englewood Cliffs, NJ: Pren-
+ment Patterns: Effective Teamwork, Practi- tice Hall.
+cal Integration. Boston, MA Addison- Boehm, Barry W. 1984. "Software Engineer-
+Wesley.
+ing Economics." IEEE Transactions on
+Berry,. E., and B. A. E. Meekings. 1985. "A Software Engineering SE-10, no. (anu-
+Style Analysis of Programs."Commun
+mmuni-
+ary):4-21.
+cations of the ACM 28, no. (anuary) Boehm, Barry W. 1987a. "Improving Soft-
+80-88.
+ware Productivity."IEEE Computer, Sep
+Bersoff, Edward H. 1984. "Elements of tember, 43-57
+IEEE Transactions on Software Engineer
+Boehm, Barry. 1987b. "Industrial Sofo
+-
+ing SE-10, no. (January): 79-87.
+ware Metrics Top 10 List. IEEE Software
+4, no.(September): 84-85
+Bersoff, Edward., and Alan M. Davis Boehm, Barry W. 1988. "A Spiral Model of
+1991. "Impacts of Life Cycle Models
+lanage
+Software Configuration Management.
+Software Development and Enhance-
+Communications of the ACM 34, no. 8
+ment." Computer, May, 61-72.
+(August):104-18
+Boehm, Barry W., and Philip N. Papaccio
+Bersoff, Edward., et al. 1980. Software
+1988. "Understanding and Controlling
+Configuration Management. Englewood
+Software Costs."IEEE Transactions on
+Cliffs, NJ: Prentice Hall.
+Software Engineering SE-14, no.(Octo-
+ber):1462-77.
+Birrell, N.., and. A. Ould. 1985. A Prac-
+meac- Boenare w., ed. 1989. Tutorial: Soft-
+tical Handbook for Software Development. ware Risk Management. Washington, DC:
+Cambridge, England: Cambridge Uni-
+versity Press.
+IEEE Computer Society Press.
+Boehm, Barry W., et al. 1978. Characteristics
+Bloch, Joshua. 2001. Effective Java Program- of Software Quality. New York, NY:
+ming Language Guide. Boston, MA: Addi-
+son-Wesley.
+North-Holland.
+Bs2002. Occupational Outlook Hand-
+Boehm, Barry w.
+y., et al. 1984. "A Software
+book 2002-03 Edition, Bureau of Labo
+Development Environment for Improy-
+r
+Statistics.
+ing Productivity. "Computer, June, 30-
+44
+BLS 2004. Occupational Outlook Handbook
+2004-05 Edition, Bureau of Labor Statistics.
+Boehm, Barry W., T. E. Gray, and T. See-
+waldt. 1984. "Prototyping Versus Speci-
+Blum, Bruce 1. 1989. "A Software Environ-
+fying: Multiproject Experiment. "IEEE
+ment: Some Surprising Empirical Re-
+Transactions on Software Engineering SE
+sults."Proceedings of the Fourteenth
+10, no. 3 (May): 290-303. Also in Jones
+nnual Software Engineering Worhshop,
+1986b
+November 29, 1989. Greenbelt, MD: God- Bochm, Barry, et al.
+dard Space Flight Center. Document
+sarry, et al. 2000a. Software Cost Es-
+se-89-007.
+timation with Cocomo. Boston, MA: Ad
+dison-Wesley.
+Boddie, John. 1987. Crunch Mode. New Boehm, Barry. 2000b. "Unifying Software
+York, NY: Yourdon Press.
+Boehm, Barry and Richard Turner. 2004
+Engineering and Systems Engineering,
+IEEE Computer, March 2000, 114-116
+Balancing Agility and Discipline: A Guide
+for the Perplexed. Boston, MA: Addison-
+Wesley
+代大全(第2版)
+
+<==========================902end ==============================>
+<==========================903start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--www. ! --www.shub.com!仅供试看^
+866
+参考文献
+Boehm-Davis, Deborah, Sylvia Sheppard, Brooks, Ruven. 1977. "Towards a Theory of
+and John Bailey. 1987. "Program Design
+the Cognitive Processes in Computer
+Languages: How Much Detail Should Programming." International Journal of
+They Include?" International Journal of Man-Machine Studies 9:737-51
+Man-Machine Studies 27, no. 4: 337-47. Brooks, W. Douglas. 1981. "Software Tech
+Bohm, C., and G. Jacopini. 1966. "Flow Di- nology Payoff--Some. Statistical Evi-
+agrams, Turing Machine
+es and Languag
+dence." The Journal of Systems and
+es with Only Two Formation Rules.
+Software 2:3-9.
+Communications of the ACM 9, no. Brown, R., and. A. Sampson. 1973
+(May):366-71
+Program Debugging. New York, NY
+Booch, Grady. 1987. Software Engineering
+American Elsevier.
+with Ada,2ded. Menlo Park,caben Buschman, Frank,etal.1996. Pattern-O-ori
+jamin/Cummings.
+ented Software Architecture, Volume 1: A
+Booch, Grady. 1994. Object Oriented Analy System of Patterns. New York, NY: John
+sis and Design with Applications, 2d ed
+Wiley&sons.
+Boston, MA: Addison-Wesley.
+Booth, Rick. 1997. Inner Loops A Soutce
+Bush, Marilyn, Laboratory's Experience
+ei
+t Propulsio
+Boston, MA: Addison-Wesley.
+the Formal Inspections." Proceedings of
+the Fourteenth Annual Software Engineer-
+Boundy, David. 1991, "A Taxonomy of Pro-
+ing Workshop, November 29, 1989. Green-
+grammers."ACM SIGSOFT Software En
+belt, MD: Goddard Space Flight Center.
+gineering Notes 16, no.(October): 23-
+Document SEL-89-007
+30
+Caine, S. H., and E. K. Gordon. 1975.
+Brand, Stewart. 1995. How Buildings Learn:
+"PDL-A Tool for Software Design
+”
+What Happens After They're Built. Pen-
+AFIPS Proceedings of the 1975 National
+guin USA
+Computer Conference 44. Montvale, NJ:
+AFIPS Press, 271-76
+Branstad, Martha A., John. Cherniavsky,
+and w. Richards Adrion. 1980. "Valida Card, David N. 1987. "A Software Technol
+tion, Verification, and Testing for the In
+ogy Evaluation Program."Information
+Programmer. Computer,
+and Software Technology 29, no. 6 (uly/
+December, 24-30
+August):291-300.
+Brockmann, R. John. 1990. Writing Better Card David., Frank E. McGarry, and Ger-
+Computer User Documentation: From Pa-
+ald T. Page. 1987. "Evaluating Software
+per to Hypertext; Version 2.0. New York
+Engineering Technologies." IEEE Trans-
+NY: John Wiley Sons.
+actions on Software Engineering SE-13
+7uly):845-51.
+Bullets-Essence and Accidents of Soft. Card, David., Victor E. Church, and Will-
+19
+Study of Software Design Practices."
+Brooks, Frederick P., Jr. 1995. The Mythical
+IEEE Transactions on Software Engineer-
+Man-Month: Essays on Software Engineer-
+ing SE-12, no. 2 (February): 264-71.
+ing, Anniversary Edition (2d ed.). Read- Card, David N., with Robert L. Glass. 1990.
+ing, MA: Addison-Wesley.
+Measuring Software Design Quality. En-
+glewood Cliffs, N]: Prentice Hall.
+代码大全(第2版)
+
+<==========================903end ==============================>
+<==========================904start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--www ! --www.shuby.com!仅供试看^
+参考文献
+867
+Card, David, Gerald Page, and Frank Mc- Constantine, Larry.1990b.Objects
+Garry. 1985. "Criteria for Software Mod-
+Functions, and Program Extensibility.
+ularization." Proceedings
+of the 8th Computer Language, January, 34-56.
+International Conference on Software Engi- Conte. H. E. Dunsmore, and V. Y.
+neering. Washington, DC: IEEE Comput-
+er Society Press, 372-77
+Shen. 1986. Software Engineering Metrics
+and Models. Menlo Park, CA: Benjamin/
+Carnegie, Dale. 1981. How to Win Friends
+Cummings.
+and Influence People, Revised Edition Cooper, Doug, and Michael Clancy, 1982
+New York, NY: Pocket Books
+Oh! Pascal! 2d ed. New York, NY:
+Chase, William G., and Herbert A. Simon. Norton.
+1973. "Perception in Chess. "Cognitive Cooper, Kenneth G. and Thomas
+Psychology 4:55-81.
+Clark, R. Lawrence. 1973. "A Linguistic
+Mullen. 1993. "Swords and Plowshares:
+The Rework Cycles of Defense and Com-
+Contribution of GOTO-less Program-mercial Software
+Development
+ming," Datamation, December 1973
+Projects," American Programmer, May
+Clements, Paul, ed. 2003. Documenting Soft-1993, 41-51.
+ware Architectures: Views and Beyond. Corbato Fernando J. 1991. "On Building
+Boston, MA Addison-Wesley.
+Systems That Will Fail." 1991 Turing
+Clements,paul, Rick Kazmanare
+an, and Mark
+Award Lecture. Communications of the
+Klein. 2002. Evaluating Software Architec-
+ACM 34, no. 9(September): 72-81
+tures: Methods and Case Studies. Boston, Cornell, Gary and Jonathan Morrison.
+MA: Addison-Wesley.
+2002. Programming VB.net: Guide fo
+Coad, Peter, and Edward Yourdon. 1991
+Experienced Programmers, Berkeley, CA:
+Object-Oriented Design. Englewood
+Apress.
+Cliffs, NJ: Yourdon Press.
+Corwin, Al. 1991. Private communication.
+Cobb, Richard H.
+H, and Harlan D. Mills. CSTB 1990. "Scaling Up: A Research Agen-
+1990. "Engineering Sofrware Under Sta-
+tistical Quality Control." IEEE Software 7
+da for Software Engineering."Excerpts
+port by the Computer Science
+no. 6(November): 45-54
+and Technology Board. Communications
+Use Cases. Boston, MA: Addiso 8 E
+Cockburn, Alistair. 2000. Writin
+of the ACM 33, no. 3 (March): 281-93
+esley. Curtis, Bill, ed. 1985. Tutorial: Human Fac
+Cockburn, Alistair. 2002. Agile
+tors in Software Development. Los Ange-
+velopment. Boston, MA: Ad
+les, CA: IEEE Computer Society Press
+"Evaluating the Effectiveness of Reliabil
+lofello, Jim, an
+urtis, Bill, et al. 1986. "Software Psycholo-
+gy: The Need for an Interdisciplinary
+ity Assurance Techniques
+Proceedings of the IEEE 74, no.
+Systems and Software 9, no.(March).
+8:1092-1106
+Comer,Douglas. 1981
+es of Pro- Curtis, Bill, et al. 1989. "Experimentation of
+gram Design Induced from ExSoftware Documentation Formats.jour
+with Small Public Programs." IEEE
+nal of Systems and Software 9, no. 2 (Feb-
+Transactions on Software Engineering SE-
+ruary):167-207
+no.2(March):169-74
+Curtis, Bill, H. Krasner, and. Iscoe. 1988.
+Constantine, Larry L. 1990a. "Comments
+"A Field Study of the Software Desigr
+n
+on 'On Criteria for Module Interfaces.
+Process for Large Systems." Communica-
+IEEE Transactions on Software Engineer-tions of the ACM 31, no.(November):
+ing SE-16, no.(December): 1440.
+1268-87.
+代码大全(第2版)
+
+<==========================904end ==============================>
+<==========================905start==============================>
+
+该书下载自书部落-分享计算机经典巨著!--www. ! --www.shul.com!仅供试看^
+868
+参考文献
+Curtis, Bill. 1981. "Substantiating Program- DeMillo, Richard A., Richard J. Lipton, and
+F
+mer Variability."Proceedings of the
+Alan J. Perlis. 1979. "Social Processes
+69,no.7:846.
+and Proofs of Theorems and Programs."
+Cusumano, Michael and Richard W. Selby.
+Communications of the ACM 22, no. 5
+1995. Microsoft Secrets. New York, NY:
+(May):271-80
+The Free Press.
+Dijkstra, Edsger. 1965. "Programming Con
+Cusumano, Michael, et al. 2003. "Software
+sidered as a Human Activity." Proceed-
+Development Worldwide: The State of
+ings of the 1965 IFIP Congress
+the Practice,"IEEE Software, November/
+Amsterdam: North-Holland, 213-17. Re-
+December 2003, 28-34
+printed in Yourdon 1982
+Dahl, O. J., E. W. Dijkstra, and C. A. R
+Hoare. 1972. Structured Programming.
+Considerea harmful." Communication
+New York, NY: Academic Press.
+of the ACM 11, no. 3 (March): 147-48.
+Date, Chris. 1977. An Introduction to Data Dikstra, Edsger. 1969. "Structured Pro
+base Systems. Reading, MA: Addison-
+gramming. Reprinted in Yourdon 1979.
+Wesley
+Dijkstra, Edsger. 1972. "The Humble Pro
+Davidson, Jack W., and Anne M. Holler.
+grammer. Communications of the ACM
+1992. "Subprogram Inlining: A Study of
+15,no.10(October):859-66
+Its Effects on Program Execution Time." Dijkstra, Edsger, 1985. "Fruits of Misun-
+IEEE Transactions on Software Engineer-
+derstanding. "Datamation, February 15,
+ing SE-18, no. 2 (February): 89-102.
+86-87.
+Davis, P. J. 1972. "Fidelity in Mathematical Dijkstra Edsger. 1989. "On the Cruelty of
+Discourse: Is One and One Really Two?
+Really Teaching Computer Science."
+American Mathematical Monthly, March,
+Communications of the ACM 32, no. 12
+252-63
+(December):1397-1414
+DeGrace, Peter, and Leslie Stahl.1990.Dunn, Robert.1984. Software Defect Re-
+Wiched Problems, Righteous Solutions: A
+moval. New York, NY: McGraw-Hill
+Catalogue of Modern Software Engin
+Paradigms. Englewood Cliffs, NJ:Your-
+meering Ellis, Margaret, and Bjarne Stroustrup.
+1990. The Annotated C++ Reference Man-
+don Pres:
+. Boston, MA: Addison-Wesley.
+DeMarco, Tom and Timothy Lister. 1999. Elmasri, Ramez, and Shamkant B. Navathe.
+Peopleware: Productive Projects and
+Teams, 2d ed. New York, NY: Dorset
+1989. Fundamentals of Database Systems.
+House
+Redwood City, CA: Benjamin/Cummings.
+DeMarco, Tom, and Timothy Lister. 1985.
+Elshoff, James L. 1976. "An Analysis of
+Programmer Performance and the Ef
+s."IEEE
+fects of the Workplace.
+Transactions on Software Engineering SE
+ware Engineering. Washington, DC: IEEE Elshoff, James L. 1977. "The Influence of
+Computer Society Press, 268-72.
+Structured Programming on PL/I Pro
+DeMarco, Tom. 1979. Structured Analysis
+gram Profiles. "IEEE Transactions on Soft
+and Systems Specification: Tools and Tech-
+ware Engineering SE-3, no. 5
+niques. Englewood Cliffs, NJ: Prentice
+(September): 364-68
+Hall
+DeMarco, Tom. 1982. Controlling Software
+Projects. New York, NY: Yourdon Press.
+代码大全(第2版)
+
+<==========================905end ==============================>
+<==========================906start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--www. ! --www.shul.com!仅供试看
+参考文献
+869
+Elshoff, James L., and Michael Ma
+pircotty. Fjelstad, R. K., and W. T. Hamlen. 1979.
+1982. "Improving Computer Program
+pptications Program Maintenance
+Readability to Aid Modification. Com-
+Study: Report to our Respondents." Pro-
+munications of the ACM 25, no. 8 (Au
+ceedings Guide 48, Philadelphia. Reprint-
+ed in Tutorial on Software Maintenance,
+Endres, Albert. 1975. "An Analysis of Errors
+. Parikh and N. Zvegintzov, eds. Los
+and Their Causes in System Programs.
+Alamitos, CA: CS Press, 1983: 13-27
+IEEE Transactions on Software Engineer- Floyd, Robert. 1979. "The Paradigms of
+ing SE-1, no. 2 (une): 140-49
+Programming." Communications of the
+ACM 22, no. 8 (August): 455-60
+Evangelist, Michael. 1984. "Progyle. Pro- Fowler, Martin. 1999. Refactoring: Improv-
+plexity and Programming Style
+ceedings of the F
+at
+ing the Design of Existing Code. Reading
+Conference on Data Engineering. New MA: Addison-Wesley
+York, NY: IEEE Computer Society Press, Fowler, Martin. 2002. Patterns of Enterprise
+534-41
+Application Architecture. Boston, MA: Ad-
+Fagan, Michael E. 1976. "Design and Code dison-Wesley.
+Inspections to Reduce Errors in Program Fowler, Martin. 2003. UML Distilled: A Brief
+Development."IBM Systems Joumal 15
+no.3:182-211.
+Guide to the Standard Object Modeling
+Language, 3d ed. Boston, MA: Addison
+Fagan, Michael. 1986. "Advances in Soft Wesley
+ware Inspections." IEEE Transactions on Fowler, Martin. 2004. UML Distilled, 3d ed.
+Software Engineering SE-12, no. 7
+744-51.
+Boston, MA: Addison-Wesley.
+Federal Software Management Support
+Fowler, Priscilla J. 1986. "In-Process Inspec-
+Center. 1986. Programmers Work-bench
+tions of Work Products at AT&T."AT&T
+Handbook. Falls Church, VA: Office of
+Technical Journal, March/April, 102-12
+Software Development and Information Foxall, James. 2003. Practical Standards for
+Technology
+Microsoft Visual Basic. NET. Redmond,
+Feiman, J., and M. Driver. 2002
+WA: Microsoft Press
+Programming Languages for IT Portfolio Freedman Daniel P., and Gerald M. Wein-
+Planning," Gartner Resea
+berg. 1990. Handbook of Walkthroughs,
+17-6636, September27,2002.
+Inspections and Technical Reviews, 3d ed
+Fetzen. mes H. 1988. "Program Verifica-
+r, Jat
+New York, NY: Dorset House
+tion: The Very Idea."Communications of Freeman, Peter, and Anthony 1. Wasser-
+the ACM 31, no.(September): 1048-man eds. 1983. Tutorial on Software De-
+63.
+sign Techniques, 4th ed. Silver Spring,
+FIPS PUB 38, Guidelines for Documentation
+: IEEE Computer Society Press.
+M
+of Computer Programs and Automated Gamma, Erich, et al. 1995. Design Pattems
+Data Systems. 1976. U.S. Department o
+Reading, MA: Addison-Wesley.
+Commerce. National Bureau of Stan- Gerber, Richard. 2002. Software Optimiza-
+dards. Washington, DC: U.S. Govern
+tion Cookbook: High-Performance Recipes
+ment Printing Office, Feb. 15
+for the Intel Architecture. Intel Press.
+Fishman, Charles.1996.They Write the, Elizabeth.1990.Objects--born
+Right Stuff, Fast Company, December
+1996
+and Bred."BYTE, October, 245-54.
+代大全(第2版)
+
+<==========================906end ==============================>
+<==========================907start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--www. !--www.shuby.com!仅供试看^
+870
+参考文献
+Gilb, Tom, and Dorothy Graham. 1993. Gordon, Scott V., and James M. Bieman.
+Software Inspection. Wokingham, En-
+1991. "Rapid Protoryping and Software
+gland: Addison-Wesley.
+Quality: Lessons from Industry. "Ninth
+Gilb, Tom. 1977. Software Metrics. Cam-
+Annual Pacific Northwest Software Quality
+bridge, MA: Winthrop
+Conference, October 7-8. Oregon Con-
+ention Center, Portland, OR
+Gilb, Tom. 1988. Principles of Software Engi-
+neering Management. Wokingham, En-
+Gorla, N., C. Benander, and B. A.
+a,
+gland: Addison-Wesley.
+Benander. 1990. "Debugging Effort Esti-
+Gilb, Tom. 2004. Competitive Engineering.
+mation Using Software Metrics."IEEE
+Transactions on Software Engineering SE
+Boston, MA: Addison-Wesley. Down- 16, no.(February): 223-31
+loadable  from www. result-planning. com.
+Ginac, Frank P. 1998. Customer Oriented
+Gould, John D. 1975. "Some Psychological
+Software Quality Assurance. Englewood
+Evidence on How People Debug Com-
+Cliffs, NJ: Prentice Hall.
+puter Programs." International Journal of
+Man-Machine Studies 7: 151-82
+Glass, Robert L. 1982. Modern Programming Grady, Robert B. 1987. "Measuring and
+Practicsi Rerort from Industry. Engle.
+Managing Software Maintenance." IEEE
+Software 4, no.(September): 34-45.
+Glass, Robert L. 1988. Software Communica- Grady, Robert B. 1993. "Practical Rules of
+tion Skills. Englewood Cliffs, NJ:Prentice
+Hall.
+Thumb for Software Managers." The Soft-
+ware Practitioner 3, no. 1 (anuary/Feb-
+Glass, Robert L. 1991. Software Conflict: Es- ruary): 4-6.
+says on the Art and Science of Software En- Grady, Robert B. 1999. "An Economic Re-
+gineering. Englewood Cliffs, NJ: Yourdo
+Press
+lease Decision Model: Insights into Soft-
+ware Project Management.
+In
+Glass, Robert L. 1995. Software Creativity
+Pr
+Reading, MA: Addison-Wesley.
+oceedings of the Applications of Sofeware
+Measurement Conference, 227-239. Or-
+Glass, Robert L. 1999. "Inspections-Some
+ange Park, FL: Software Quality Engi-
+Surprising Findings, Communications o
+neering.
+the ACM, April 1999, 17-19
+Grady, Robert B., and Tom Van Slack. 1994
+Glass, Robert L. 1999. "The realities of soft-
+"Key Lessons in Achieving Widespread
+ware technology payoffs," Communica- Inspection Use," IEEE Software, July
+tions of the ACM, February 1999, 74-79.
+1994
+Glass, Robert L. 2003. Facts and Fallacie
+Grady, Robert B. 1992. Practical Software
+Sofware Engineering. Boston, MA: Addi-
+Metrics For Project Management And Pro
+son-Wesley.
+cess Improvement. Englewood Cliffs, N]:
+Prentice Hall.
+Glass, Robert L, and Ronald A. Noiseux. Grady, Robert B., and Deborah L. Caswell.
+Englewood Cliffs,]: Prentice Hall.
+1987. Software Metrics: Establishing a
+Gordon, Ronald D. 1979. "Measuring Im-
+Company-Wide Program. Englewood
+Cliffs, NJ: Prentice Hall.
+provements in Program Clarity."IEEE
+Transactions on Software Engineering SE. Green. Paul. 1987. "Human Factors in
+5,no.2(March):79-90
+Computer Systems, Some Useful Read
+ings."Sigchi Bulletin 19, no. 2: 15-20.
+代码大全(第2版)
+
+<==========================907end ==============================>
+<==========================908start==============================>
+
+该书下载自书部落-分享计算机经典巨著!--www. ! --www.shubulo.com! ^ .com!仅供试看^
+参考文献
+871
+Gremillion, Lee L. 1984. "Determinants of Hetzel, Bill. 1988. The Complete Guide to
+Program Repair Maintenance Require
+Software Testing, 2d ed. Wellesley, MA:
+ments."Communications of the ACM 27,
+QED Information Systems
+no.(August): 826-32
+Highsmith, James A.,. 2000. Adaptive
+Gries, David. 1981. The Science of Progra
+Software Development: A Collaborative Ap-
+ming. New York, NY: Springer-Verlag.
+proach to Managing Complex Systems.
+Grove, Andrew S. 1983. High Output Man
+New York, NY: Dorset House
+agement. New York, NY: Random House. HighsmithJim. 2002. Agile Software Devel-
+Haley, Thomas.1996.“Software Process
+opment Ecosystems. Boston, MA: Addi-
+Improvement at Raytheon." IEEE Soft- son-Wesley.
+ware, November 1996
+Hildebrand, J. D. 1989. "An Engineer's Ap-
+Hansen, John C., and Roger Yim. 1987. "In-
+proach."Computer Language, October.
+dentation Styles in C." SIGSMALL/PC
+5-7
+Notes 13, no, 3 (August): 20-23.
+Hoare, Charles Anthony Richard, 1981. "The
+Hanson, Dines. 1984. Up and Running. New
+Emperor's Old Clothes."Communications
+York, NY: Yourdon Press.
+of the ACM, February 1981, 75-83
+Harrison, Warren, and Curtis Cook. 1986
+Hollocker, Charles P. 1990. Software Re
+“Are Deeply Nested Con
+view
+es and Audits Handbook. New York
+Readable?"Journal of Systems and Soft
+ess NY: John Wiley Sons.
+ware 6, no.(November): 335-42
+Houghton, Raymond C. 1990. "An Office
+Hasan, Jeffrey and Kenneth Tu. 2003. Per
+Library for Software Engineering Profes-
+rmance Tuning and Optimizing
+sionals. Software Engineering: Tools
+ASP. NET Applications. Apress.
+Techniques, Practice, May/June, 35-38
+Hass, Anne Mette Jonassen. 2003. Configu- 2003. Writing Sec
+Howard, Michael, and David Leblanc
+Secure Code, 2d ed. Red-
+es, Boston, MA: Addison-Wesley.
+mond, WA: Microsoft Press.
+Hatley, Derek, and Imtiaz A Pirbhai. 1988. Hughes, Charles E., Charles P. Pfleeger, and
+Strategies for Real-Time System Specifica-
+Lawrence.rose.1978. Advanced Pro
+tion. New York, NY: Dorset House
+gramming Techniques: A Second Course in
+Hecht, Alan. 1990. "Cute Object-oriented
+Ncogramming Using Fortran. New York,
+Acronyms Considered Foolish. Soft Humphrey, Watts S. 1989. Managing the
+NY: John Wiley & Sons.
+ware Engineering Notes, January, 48
+Heckel, Paul. 1994. The Elements
+Software Process. Reading, MA: Addison-
+Software Design. Alameda, CA: Sybex
+Wesley
+Hecker, Daniel E. 2001. "Occupational Em- Humphrey, Watts S. 1995. A Discipline for
+ployment Projections to 2010."Monthly
+Software Engineering. Reading, MA: Addi-
+Labor Review, November 2001
+son-Wesley.
+Hecker, Daniel E. 2004. "Occupational Em-
+Humphrey, Watts S., Terry R. Snyder, and
+ployment Projections to 2012." M
+Ronald R. Willis. 1991. "Software Pro-
+cess Improvement at Hughes Aircraft.
+Labor Review, February 2004, Vol. 127, IEEE Software 8, no. (July): 11-23
+o.2,pp.80-105
+Henry, Sallie, and Dennis Kafura. 1984.
+Humphrey, Watts. 1997. Introduction to the
+Personal Software Process. Reading, MA:
+"The Evaluation of Software Systems'Addison-Wesley.
+Structure Using Quantitative Software
+Metrics." Software-Practice and Experi-
+ence 14, no. 6 (une): 561-73.
+代码大全(第2版)
+
+<==========================908end ==============================>
+<==========================909start==============================>
+
+该书下载自书部落-分享计算机经典巨著!--www. ! --www.shul.com!仅供试看
+872
+参考文献
+Humphrey, Watts. 2002. Winning with Soft- IEEE Std 730-2002, Standard for Software
+ware: An Executive Strategy. Boston, MA:
+Quality Assurance Plans
+Addison-Wesley.
+JEEE Std 828-1998, Standard for Software
+Hunt, Andrew, and David Thomas. 2000. Configuration Management Plans
+The Pragmatic Programmer. Boston, MA: IEEF Std 829-1998, Standard for Software
+Addison-Wesley.
+Test Documentation
+Ichbiah, Jean D.. et al. 1986. Rationale for IEEE Std 830-1998, Recommended Practice
+Design of the Ada Progrdmming Language.
+Minneapolis, MN: Honeywell System
+. for Software Requirements Specifications
+and Research Center.
+IEEE Std 830-1998. IEEE Recommended Prac-
+IEEE Software 7, no. 3 (May 1990).
+tice for Software Requirements Specifica-
+tions. Los Alamitos, CA: IEEE Computer
+IEEE Std 1008-1987(R1993), Standard for
+Society Press.
+Software Unit Testing
+IEEE, 1991. IEEE Software Engineering Stan-
+IEEE Std 1016-1998, Recommended Practice dards Collection, Spring 1991 Edition
+for Software Design Descriptions
+New York, NY: Institute of Electrical and
+IEEE Std 1028-1997, Standard for Software Electronics Engineers.
+Reviews
+IEEE, 1992. "Rear Adm. Grace Hopper dies
+IEEE Std 1045-1992, Standard for Software
+at 85."IEEE Computer, February, 84
+Productivity Metrics
+Ingrassia, Frank S. 1976. "The Unit Devel-
+IEEE Std 1058-1998, Standard for Software
+opment Folder (UDF): An Effective
+Project Management Plans
+Management Tool for Software Develop-
+IEEE Std 1061-1998, Standard for a Software
+ment. TRW Technical Report TRW-SS-
+Quality Metrics Methodolog
+76-11. Also reprinted in Reifer 1986,
+366-79.
+IEEE Std 1062-1998, Recommended Practice Ingrassia Frank S. 1987. "The Unit Devel
+for Software Acquisition
+opment Folder (UDF): A Ten-Year Per
+IEEE Std 1063-2001, Standard for Software spective." Tutorial: Software Engineering
+User Documentation
+Project Management, ed. Richard H.
+Thayer. Los Alamitos, CA: IEEE Comput-
+IEEE Std 1074-1997, Standard for Developing er Society Press, 405-15
+Software Life Cycle Processes
+IEEE Std 1219-1998, Standard for Software Jackson, Michael A. 1975. Principles of Pre
+Maintenance
+Press.
+IEEE Std 1233-1998, Guide for Developing Jacobson, Ivar, Grady Booch, and James
+System Requirements Specifications
+IEEE Std 1233-1998. IEEE Guide for Develop-
+Rumbaugh. 1999. The Unified Software
+ing System Requirements Specifications
+Development Process. Reading, MA: Addi-
+son-Wesley.
+IEEE Std 1471-2000. Recommended Practice Johnson, Jim. 1999. "Turning Chaos into
+for Architectural Description of Software
+Intensive Systems
+Success," Software Magazine, December
+1999,30-39.
+IEEE Std 1490-1998, Guide-Adoption of PMI Johnson, Mark. 1994a. "Dr. Boris Beizer
+Standard-A Guide to the Project Manage-on Software Testing: An Interview Part
+ment Body of Knowledge
+IEEE Std 1540-2001, Standard for Software
+1," The Software QA Quarterly, Spring
+1994,7-13.
+Life Cycle Processes-Risk Management
+代码大全(第2版)
+
+<==========================909end ==============================>
+<==========================910start==============================>
+
+该书下载自-书部落分享计算机经典巨著!- ! --www.shubulo.com!^.com!仅供试看^
+参考文献
+873
+Johnson, Mark. 1994b. "Dr. Boris Beizer on Kaner, Cem, James Bach, and Bret Pettichord
+Software Testing: An Interview Part 2,"
+2002. Lessons Learned in Software Testing.
+he Software QA Quarterly, Summer
+New York, NY: John Wiley &r Sons.
+1994,41-45
+Keller, Daniel. 1990. "A Guide to Natural
+Johnson, Walter L. 1987. "Some Comments Naming." ACM Sigplan Notices 25, no. 5
+on Coding Practice."ACM SIGSOFT Soft-
+(May):95-102
+ware Engineering Notes 12, no. 2. (April). Kelly, John C. 1987. "A Comparison of Four
+32-35
+Design Methods for Real-Time Systems."
+Jones, T. Capers. 1977. "Program Qualit
+and Progmort er Productivity." IBM
+Proceedings of the Ninth International Con-
+ference on Software Engineering. 238-52
+Technical Report TR 02. 764, January, 42- Kelly-Bootle, Stan. 1981. The Devil's DP Dic
+78. Also in Jones 1986b
+tionary. New York, NY: McGraw-Hill.
+Jones, Capers. 1986a. Programming Produc- Kernighan Brian W., and Rob Pike. 1999
+tivity. New York, NY: McGraw-Hill.
+Jones, T. Capers, ed. 1986b. Tutorial: Pro- MA: Add
+The Practice of Programming. Reading.
+ison-Wesley.
+gramming Productivity: Issues for the Kernighan Brian W., and P. J. Plauger.
+Eighties, 2d ed. Los Angeles, CA: IEEE 1976. Software Tools. Reading, MA: Addi-
+Computer Society Press.
+son-Wesley.
+Jones, Capers. 1996. "Software Defect-Re- Kernighan, Brian., and P. J. Plauger.
+moval Efficiency, "IEEE Computer, April
+1996
+1978. The Elements of Programming Style
+2d ed. New York, NY: McGraw-Hill.
+Jones, Capers. 1997. Applied Software Mea- Kernighan, Brian W., and P. J. Plauger.
+surement: Assuring Productivity and Qua
+ity, 2d ed. New York, NY: McGraw-Hill
+1981. Soft
+are Tools in Pascal. Reading,
+MA: Addison-Wesley.
+Jones, Capers. 1998. Estimating Software Kernighan, Brian W., and Dennis M. Ritch-
+Costs. New York, NY: McGraw-Hill.
+ie. 1988. The C Programming Language,
+Jones, Capers. 2000. Software Assessments, 2d ed. Englewood Cliffs,: Prentice
+Benchmarks, and Best Practices. Reading, Hall.
+MA: Addison-Wesley.
+Jones, Capers. 2003. "Variations in Soft-
+Tuning, 2d ed. Sebastopol, CA: O'Reilly
+ware Development Practices, IEEE Soft-
+Associates.
+ware, November/December 2003, 22-King, David. 1988. Creating Effective Soft-
+27.
+ware: Computer Program Design Using the
+Jonsson, Dan. 1989. "Next: The Elimina-
+m
+tion of GoTo-Patches?" ACM Sigplan No-
+Jackson Methodology. New York, NY:
+Yourdon Press.'
+Knuth, Donald. 1971. "An Empirical Study
+Kaelbling, Michael. 1988. "Programming of FORTRAN programs," Software-Prac
+Scanguages OT Have Comment tice and Experience 1: 105-33.
+Statements." ACM Sigplan Notices 23, no. Knuth, Donald. 1974. "Structured Pro-
+10(October): 59-60
+Kaner, Cem, Jack Falk, and Hung Q. Ngu
+gramming with go to Statements." In
+en. 1999. Testing Computer Software, 2
+Classics in Software Engineering, edited by
+ed. New York,ny: John Wiley& Sons
+Edward Yourdon. Englewood Cliffs, NJ:
+Yourdon Press, 1979.
+代码大全(第2版)
+
+<==========================910end ==============================>
+<==========================911start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--www. !--www.shub.com!仅供试看^
+874
+参考文献
+Knuth, Donald. 1986. Computers and Type- Lampson, Butler. 1984. "Hints for Comput-
+setting, Volume B, TEX: The Program
+er System Design. "IEEE Software 1, no. 1
+Reading, MA: Addison-Wesley.
+(anuary): 11-28
+Knuth, Donald. 1997a. The Art of Computer Larman, Craig and Rhett Guthrie. 2000.
+Programming, vol. 1, Fundamental Algo- Java 2 Performance and Idiom Guide. En-
+rithms, 3d ed. Reading, MA: Addison-glewood Cliffs, NJ: Prentice Hall.
+Wesley.
+Larman, Craig. 2001. Applying UML and
+Knuth, Donald. 1997b. The Art of Computer
+gramming, vol. 2, Seminumerical algo
+Patters: An Introduction to Object-Orient-
+Prog
+ed Analysis and Design and the Unified
+rithms, 3d ed. Reading, MA: Addison
+Process, 2d ed. Englewood Cliffs, N]:
+Wesley.
+Prentice Hall
+Knuth, Donald. 1998. The Art of Computer Larman, Craig. 2004. Agile and Iterative De-
+Programming, vol. 3, Sorting and Searching,
+velopment: A Manager's Guide. Boston,
+2d ed. Reading, MA: Addison-Wesley.
+MA: Addison-Wesley, 2004.
+Knuth, Donald.2001. Literate Program-Lauese-, Soren. Software Requirements:
+ming. Cambridge University Press.
+Styles and Techniques. Boston, MA: Addi-
+Korson, Timothy D., and Vijay K
+son-Wesley, 2002.
+1986. "An Empirical Study of Modulari-Laurel, Brenda, ed. 1990. The Art of Human-
+ty on Program Modifia
+Computer Interface Design. Reading, MA:
+and lyengar 1986: 168-86
+Addison-Wesley.
+Kouchakdjian, Ara, Scott Green, and Vict
+Basili.1989.“Evalua
+room Methodology
+Softhe cictor Ledgard, Henry F., with John Tauer. 1987a
+CWith Excellence: Programming Proverbs.
+Indianapolis: Hayden Books
+neer
+ing Laborator
+Fourteenth Annual
+he Ledgard, Henry F., with John Tauer. 1987b
+Workshop, November 29, 1989. Gre
+Professional Software, vol. 2, Programming
+belt, MD: Goddard Space Flight Center
+Practice. Indianapolis: Hayden Books
+Document SEL-89-007
+Ledgard, Henry, and Michael Marcotr
+Kovitz, Benjamin, L. 1998 Practical sont and
+1986. The Programming Language Land-
+Requirements: A Manual of
+scape: Syntax, Semantics, and Implementa
+Style, Manning Publications Companv
+tion, 2d ed. Chicago: Science Research
+Kreitzberg, C. B., and B. Shneiderman. Ledgard, Henry. 1985. "Programmers: The
+1972. The Elements of Fortran Style. New
+York, NY: Harcourt Brace Jovar
+Amateur vs. the Professional. Abacus 2,
+no.(Summer): 29-35
+Kruchten, Philippe B. "The 4+1 View Model Leffingwell, Dean. 1997. "Calculating the
+of Architecture." IEEE Software, pages
+Return on Investment from More Effec-
+42-50, November 1995
+tive Requirements Management, "Ameri-
+Kruchten, Philippe. 2000. The Rational Uni- can Programmer, 10(4): 13-16.
+fied Process: An Introduction, 2d Ed., Lewis, Daniel. 1979. "A Review of Ap
+Reading, MA: Addison-Wesley
+proaches to Teaching Fortran. IEEE
+Kuhn, Thomas S. 1996. The Structure of sc-
+Transactions on Education, E-22, no. 1:
+entific Revolutions, 3d ed. Chicago: Uni-
+23-25
+versity of Chicago Press.
+Lewis, William E. 2000. Software Testing and
+Lammers, Susan. 1986. Programmers at
+Worh. Redmond, WA: Microsoft Press.
+Continuous Quality Improvement, 2d ed
+Auerbach Publishing
+代码大全(第2版)
+
+<==========================911end ==============================>
+<==========================912start==============================>
+
+该书下载自书部落-分享计算机经典巨著!--www. !--www.shut.com!仅供试看
+参考文献
+875
+Lieberherr, Karl J. and [an Holland. 1989 Mannino, P. 1987. "A Presentation and
+"Assuring Good Style for Object-Orient- Comparison of Four Information Sys-
+ed Programs." IEEE Software, September tem Development Methodologies."Soft-
+1989.pp.38f
+ware Engineering Notes 12, no.(April):
+Lientz, B. P., and E. B. Swanson. 1980. Soft 26-29.
+ware Maintenance Management. Reading, Manzo, Iohn 2002. "Odyssey an crostalk,
+MA: Addison-Wesley.
+Code Science Success Stories. "Cro.
+Lind, Randy K., and K. Vairavan. 1989."An
+October 2002
+Experimental Investigation of Software Marca, David. 1981. "Some Pascal Style
+Metrics and Their Relationship to Soft
+Guidelines." ACM Sigplan Notices 16, no
+ware Development Effort."IEEE Transac4(April): 70-80
+tions on Software Engine
+(May):649-5
+SE-15, no. 5 March, Steve. 1999. "Learning from Path-
+Linger, Richard C. Harlan D. Mills, and Ber-
+finder's Bumpy Start." Software Testing
+and Quality Engineering, September/Oc
+nard I. Witt. 1979. Structured Program
+tober 1999, pp. 10f.
+ming: Theory and Practice. Reading, Marcotty, Michael.1991. Software Imple-
+Addison-Wesley.
+mentation. New York, NY: Prentice Hall.
+Linn, Marcia C., and Michael J. Clancy. Martin, Robert C. 2003. Agile Software
+1992. "The Case for Case Studies of Pro
+gramming Problems. Communications
+Development: Principles, Patterns, and
+of the ACM 35, no.(March): 121-32
+Practices. Upper Saddle River, NJ:
+Pearson Educatio
+Liskov, Barbara, and Stephen Zilles. 1974.
+"Programming with Abstract Data Ty
+McCabe, Tom. 1976. "A Complexity Mea
+ACM Sigplan Notices 9, no. 4: 50-59.
+sure. "[ Transactions on Software Engi-
+neering, SE-2, no.(December): 308-20.
+Liskov, Barbara. "Data Abstraction and Hi McCarthy, Jim. 1995. Dynamics of Software
+erarchy,"ACM SIGPLAN Notices, May
+1988.
+Development. Redmond, WA: Microsoft
+Pres
+Littman, David C., et al. 1986. "Mental McConnell Steve. 1996. Rapid Develop
+Models and Software Maintenance." In ment Redmond, WA: Microsoft Press.
+Soloway and lyengar 1986: 80-98
+Longstreet, David H., ed. 1990. Software
+McConnell, Steve. 1997a. "The Program-
+Maintenance and Computers. 'Los Alami-
+Yiting, IEEE Software, July/Au-
+mer Writing
+tos, CA: IEEE Computer Sociery Press.
+gust 1997.
+Loy, PatrickH. 1990. "A Comparison of Ob
+McConnell, Steve. 1997b. "Achieving Lean-
+ject-Oriented and Structured Develop
+er Software,"IEEE Software, November/
+ment Methods." Software Engineering
+December 1997.
+Notes 15, no. 1 (anuary): 44-48
+McConnell, Steve. 1998a. Software Project
+Mackinnon, Tim, Steve Freeman, and Phili
+Craig. 2000. Endo- Testing: Unit Testing
+P Press.
+with Mock Objects,"extreme. Program McConnell Steve. 1998b. "Why You
+ming and Flexible Processes Software E
+Should Use Routines, Routinely, "IEEE
+gineering-XP2000 Conference.
+Software, Vol. 15, No. 4, July/August
+Maguire, Steve. 1993. Writing Solid Code
+1998
+Redmond, WA: Microsoft Press.
+McConnell, Steve. 1999. "Brooks Law Re
+pealed?" IEEE Software, November/De-
+cember 1999
+代码大全(第2版
+
+<==========================912end ==============================>
+<==========================913start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--www. ! --www.shubulo.com!^  ^.com!仅供试看
+876
+参考文献
+McConnell, Steve. 2004. Professional Soft- Miaria, Richard J., et al. 1983. "Program In-
+ware Development. Boston, MA: Addison- dentation and Comprehensibility. "Com-
+Wesley.
+munications of the ACM 26, no. 11
+McCue, Gerald. 1978. "IBM's Santa Tere- (November): 861-67.
+sa Laboratory-Architectural Design for Michalewicz, Zbigniew, and David B. Fogel.
+Program Development. "IBM Systems
+2000. How to Solve It: Modern Heuristics.
+Journal 17, no. 1:4-2
+Berlin: Springer-Verlag.
+McGarry, Frank, and ros
+rski. 1990. Miller, G. A. 1956. "The Magical Number
+“T
+Towards Understanding Sof
+Seven, Plus or Minus Two: Some Limits
+Years in the SEL." Pro
+on Our Capacity for Processing Informa-
+teenth Annual Software
+tion." The Psychological Review 63, no. 2
+shop, November 28
+0. Greenbelt, (March): 81-97
+MD: Goddard Space Flight Center. D
+ument SEL-90-006.
+ills, harlan. 1983. Software Productivity.
+Boston, MA: Little, Brown.
+McGarry, Frank, Sharon Waligora, and Tim
+McDermott. 1989. "Experiences in th
+Mills, Harlan D. 1986. "Structured Pro
+Software Engineering Laboratory (SEL)
+gramming: Retrospect and Prospect."
+Applying Software Measurement. Pro
+IEEE Software, November, 58-66
+ceedings of the Fourteenth Annual Software Mills, Harlan D., and Richard C. Linger.
+Fogineering Workshop, November 29,
+1986. "Data Structured Programming:
+989. Greenbelt, MD: G
+pace
+Program Design Without Arrays and
+Flight Center. Document SEL-89-007
+Pointers." IEEE Transactions on Software
+McGarry, John, et al. 2001. Practical Soft
+Engineering SE-12, no. 2 (February):
+192-97
+ware Measurement: Objective Information
+for Decision Makers. Boston, MA: Addi Mills, Harlan D., Michael Dyer, and Richard
+son-Wesley
+C. Linger. 1987. "Cleanroom Software
+Knowledge Organization and Skill Dif-
+AcKeithen, Katherine B., et al. 1981.
+Engineering."IEEE Software, September,
+19-25
+ferences in Computer Programmers." Misfeldt, Trevor, Greg Bumgardner, and
+Cognitive Psychology 13: 307-25
+Andrew Gray. 2004. The Elements of C++
+Metzger, Philip., and John Boddie.1996
+Style. Cambridge University Press
+Managing Programming Llwood Cliffs,
+cess- Mitchell, Jeffrey, Joseph Urban, and Robert
+es and People, 3d ed. Englew
+McDonald. 1987. "The Effect of Abstract
+N]: Prentice Hall, 1996.
+Data Types on Program Development."
+Meyer, Bertrand. 1997. Object-Oriented Soft-
+IEEE Computer 20, no.(September):
+ware Construction
+2d ed. New York, NY:
+85-88
+Prentice Hall
+Mody, R. P. 1991."C in Education and Soft-
+More Effective C++: 35 ware Engineering." SIGCSE Bulletin 23.
+New Ways to Improve Your Programs and
+Designs. Reading, MA: Addison-Wesley. Moore, Dave. 1992. Private communication.
+Meyers, Scott. 1998. EFffective C++: 50 Specif Moore James W. 1997. Software Engineer-
+ic Ways to Improve Your Programs and De-
+ing Standards: A User's Road Map. Los
+signs, 2d ed. Reading, MA: Addison-
+Alamitos, CA: IEEE Computer Society
+Wesley
+Press.
+代码大全(第2版)
+
+<==========================913end ==============================>
+<==========================914start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--www. ! --www.shubulo.com!^ .com!仅供试看
+参考文献
+877
+Morales, Alexandra Weber. 2003. "The Norman Donald. 1988. The Psychology of
+Consummate Coach: Watts Humphrey,
+Everyday Things. New York, NY: Basic
+Father of Cmm and Author of Winning Books. (Also published in paperback as
+with Software, Explains How to Get Bet-Th- Design of Everyday Things. New York
+ter at What You Do," SD Show Daily, Sep- NY: Doubleday, 1990.)
+tember 16, 2003.
+Oman, Paul and Shari Lawrence Pfleeger,
+Myers, Glenford J. 1976. Software Reliabili-eds 1996. Applying Software Metrics. Los
+Myers, Glenford ] 1978a. Composite/Struc- Pramitos CA: IEEE Computer Society
+ty. New York, NY: John Wiley Sons.
+ress.
+tural Design. New York, NY: Van Nos- Oman, Paul W., and Curtis R. Cook. 1990a
+trand Reinhold
+"The Book Paradigm for Improved Main-
+Myers, Glenford J. 1978b. "A Controlled tenance. IEEE Software, January, 39-45.
+Experiment in Program Testing and Oman, Paul W., and Curtis. Cook. 1990b
+Code Walkthroughs/Inspections. "Com-"T
+munications of the ACM 21, no.(Sep
+aypographic Style Is More Than Cos-
+mmunic
+metic." Communications of the ACM 33,
+tember): 760-68
+no.5(may):506
+Myers, Glenford J. 1979. The Art of Software Ostrand, Thomas ]., and Elaine J. Weyuker.
+Testing. New York, NY: John wiley 1984. "Collecting and Categorizing Soft-
+Sons.
+ware Error Data in an Industrial Envi-
+Myers, Ware. 1992. "Good Software Practic-
+ronment." Journal of Systems and Software
+es Pay Off-Or Do They?"IEEE Software.
+4, no.(November): 289-300.
+March, 96-97.
+Page-Jones, Meilir. 2000. Fundamentals
+of
+Naisbitt, John. 1982. Megatrends. New Object-Oriented Design in UML. Boston,
+York, NY: Warner Books.
+MA: Addison-Wesley.
+NASA Software Engineering Laboratory, Page-Jones Meilir. 1988. The Practical Guide
+1994. Software Measurement Guidebook,
+to Structured Systems Design. Englewood
+June 1995, NASA-GB-001-94. Available
+Cliffs, NJ: Yourdon Press.
+from http: //sel.gsfc. nasa.gov/website  parikh, G., and N. Zvegintzov, eds. 1983.
+/documents/online-doc/94-102.p
+Tutorial on Software Maintenance. Los
+ncs2002. National Center for Education Alamitos,ca: IEEE Computer Society
+Statistics, 2001 Digest of Educational Sta-
+tistics, Document Number NCES Parikh, Girish. 1986. Handbook of Software
+2002130, April2002
+Maintenance. New York, NY: John Wiley
+Nevison, John. 1978. The Little Book of BA
+Sons.
+SIC Style. Reading, MA: Addison-Wesley. Parnas, David L. 1972. "On the Criteria. to
+Newcomer, Joseph M. 2000. "Optimization:
+Be Used in Decomposing Systems into
+www.flounder. com/ optimizal 2000,
+Your Worst Enemy," May 2000
+Modules." Communications of the ACM 5,
+Norcio, A. F. 1982. "Indentation, Documen- Parnas, David L. 1976. "On the Design and
+tation and Programmerar
+rammer Comprehen-
+Development of Program Families."
+sion." Proceedings: Human Factors ir
+IEEE Transactions on Software Engineer-
+Computer Systems, March 15-17, 1982,
+ing SE-2, 1 (March): 1-9.
+Gaithersburg, MD: 118-20
+Parnas, David L. 1979. "Designing Software
+for Ease of Extension and Contraction."
+IEEE Transactions on Software. Engineer-
+ing SE-5, no. 2 (March): 128-38
+代大全(第2版)
+
+<==========================914end ==============================>
+<==========================915start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--www. !--www.shub.com!仅供试看
+878
+参考文献
+Parnas, David L. 1999. ACM Fellow Profile: Pietrasanta, Alfred M. 1991b. "Implement-
+David Lorge Parnas, ACM Software Engi-
+ing Software Engineering in IBM. "Key
+neering Notes, May 1999, 10-
+note address. Ninth Annual Pacific
+Parnas, David L., and Paul C. Clements.
+Northwest Software Quality Conference,
+1986. "A Rational Design Process: How
+October 7-8, 1991. Oregon Convention
+and Why to Fake It. IEEE Transa
+tware
+nsactions
+Center, Portland, OR
+(February): 5ngineering SE-12, no. 2 Pigoski, Thomas M. 1997. Practical Software
+on Software I
+57
+Maintenance. New York, NY: John Wiley
+Parnas, David L., Paul C. Clements, and D
+Sons.
+M. Weiss. 1985. "The Modular Structure Pirsig, Robert M. 1974. Zen and the Art of
+of Complex Systems." IEEE Transactions Motorcycle Maintenance: An Inquiry into
+on Software Engineering SE-11, no. 3 Values. William Morrow.
+March):259-66
+Plauger, P. J. 1988. " Designer's Bibliogra-
+Perrott, Pamela. 2004. Private communi- phy.
+hy." Computer Language, July, 17-22.
+cation.
+Plauger, P.J. 1993. Programming on Purpose:
+Peters, L. J., and L. L. Tripp. 1976. "Is Soft-Essays on Software Design. New York, NY:
+ware Design Wicked" Datamation, Vol
+Prentice Hall.
+22,no.5(may1976),127-136
+Plum, Thomas. 1984. C Programming
+Peters, Lawrence J. 1981. Handbook of Soft-Guid. Cardiff, NJ]: Plum Hall
+ware Design: Methods and Techniques. Polya, G. 1957. How to Solve It: A New Aspect
+New York, NY: Yourdon Press.
+of Mathematical Method, 2d ed. Prince-
+Peters, Lawrence J., and Leonard L. Tripp. ton, NJ: Princeton University Press.
+1977. "Comparing Software Design Post, Ed. 1983. "Real Programmers Don't
+Methodologies." Datamation, Nove
+m
+ber,89-94
+Use Pascal," Datamation, July 1983,
+263-265
+Peters, Tom. 1987. Thriving on Chaos: Hand-Prechelt, Lutz. 2000. "An Empirical Compar-
+book for a Management Revolution. New
+York, NY: Knopf.
+ison of Seven Programming Languages
+IEEE Computer, October 2000, 23-29
+Petroski, Henry. 1994. Design Paradigms: Pressman, Roger S. 1987. Software Engineer-
+ing: A Practitioner's Approach. New York
+Engineering. Cambridge, U.K.: Cam- NY: McGraw-Hill.
+bridge University Press.
+Pressman, Roger S. 1988. Mahing Software
+Pietrasanta, Alfred M. 1990. "Alfred M. Pi-Engineering Happen: A Guide for Institut-
+etrasanta on Improving the Software
+ing the Technology. Englewood Cliffs, N]:
+Process." Software Engineering: Tools, Prentice Hall.
+June):29-34.
+Putnam, Lawrence H. 2000. "Familiar Met-
+ric Management-Effort, Developmen
+Pietrasanta, Alfred M. 1991a. "A Strategy for Time, and Defects Interact. Download
+Software Process Improvement." Ninth
+able  from www.gsm.com
+Annual Pacific Northwest Software Quality
+Conference, October 7-8, 1991. Oregon Putnam, Lawrence, and Ware Myers.
+Convention Center, Portland, OR
+1992. Measures for Excellence: Reliable
+Software On Time, Within Budget. Engle
+wood Cliffs, NJ: Yourdon Press, 1992
+代码大全(第2版)
+
+<==========================915end ==============================>
+<==========================916start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--www. !--www.shub.com!仅供试看
+参考文献
+879
+Putnam, Lawrence H., and Ware Myers Rogers, Everett M. 1995. Diffusion of Innova-
+1997. Industrial Strength Software: Effec
+tions, 4ch ed. New York, NY: The Free
+tive Management Using Measurement. Press.
+Washington, DC: IEEE Computer SoCi Rombach, H. Dieter. 1990. "Design Mea-
+ety Press.
+surements: Some Lessons Learned."
+Putnam, Lawrence H., and Ware Myers. IEEE Software, March, 17-25
+earned. DRubin, Frank.1987.GOTO Considered
+loadable from www.qsm.com,  june 2000
+Harmful' Considered Harmful." Letter
+Ragh
+lavan, Sridhar, and Donald R.
+to the editor. Communications of the ACM
+1989. "Diffusing Software-Engineering
+30, no. (March): 195-96. Follow-up
+Methods."IEEE Software, July, 81-90.
+letters in 30, no.(May 1987): 351-55:
+Ramsey, H. Rudy, Michael E. Atwood, and
+30,no.6(une1987):475-78;30,no.7
+James R. Van Doren. 1983."Flowcharts
+uly1987):632-34;30,no.8(August
+Versus Program Design Languages: An
+1987):659-62;30,no.12(December
+Experimental Comparison." Communica-
+1987):997,1085
+tions of the ACM 26, no. 6 (une): 445-49. Sackman, H. W.]. Erikson, and E. E. Grant.
+Ratliff, Wayne. 1987. Interview in Solution
+1968. "Exploratory Experimental Studies
+System
+Comparing Online and Offline Program-
+Raymond, E. S. 2000. "The Cathedral and
+ming Performance. Communications of
+the bazaar," www.catb.org/esr/writings
+the ACM 11, no. (anuary): 3-11
+/cathedral-bazaar.
+Schneider, G. Michael, Johnny Martin, and
+Raymond, Eric S. 2004. The Art of Unix Pro-
+W. T. Tsai. 1992. "An Experimental
+Study of Fault Detection in User Re-
+gramming. Boston, MA: Addison-Wesley.
+quirements Documents," ACM Transac-
+Rees, Michael J. 1982. "Automatic Assess-
+tions on Software Engineering and
+ment Aids for Pascal Programs." ACMS
+sig
+Methodology, vol 1, no. 2, 188-204
+Plan Notices 17, no. 10(October): 33-42. Schulmeyer, G. Gordon. 1990. Zero Defect
+Reifer, Donald. 2002. "How to Get the Most
+Software. New York, NY: McGraw-Hill.
+Out of Extreme Programming/Agile Sedgewick Robert. 1997. Algorithms in C,
+Methods," Proceedings, XP/Agile Uni-
+verse 2002. New York, NY: Springer,
+Parts-4,3ded. Boston,ma: Addison-
+185-196.
+Wesley
+Reingold, Edward. and Wilfred.hans-
+Sedgewick, Robert. 2001. Algorithms in C
+en. 1983. Data Structures. Boston, MA Wesley.
+Part 5, 3d ed. Boston, MA: Addison-
+Little, Brown
+Rettig, Marc. 1991. "Testing Made Palat-
+Sedgewick, Robert. 1998. Algorithms in C++,
+able."Communications of the ACM 34, no.
+Parts 1-4, 3d ed. Boston, MA: Addisor
+5(May):25-29
+Wesley.
+Riel, Arthur J. 1996. Object-Oriented Design
+Sedgewick, Robert. 2002. Algorithms in
+Heuristics. Reading, MA: Addison-Wesley. Wesley.
+C++, Part 5, 3d ed. Boston, MA: Addison-
+Rittel, Horst, and Melvin Webber.1973. Sedgewick, Robert.2002. Algonithms in Java,
+"Dilemmas in a General Theory of Plan
+ning."Policy Sciences 4: 155-69.
+Parts 1-4, 3d ed. Boston, MA: Addison-
+Wesley.
+Robertson, Suzanne, and James Robertson, Sedgewick, Robert. 2003. Algorithms in Java,
+1999. Mastering the Requirements Process.
+Reading, MA: Addison-Wesley.
+Part 5, 3d ed. Boston, MA: Addison-
+Wesley.
+大全(第2版
+
+<==========================916end ==============================>
+<==========================917start==============================>
+
+该书下载自-书部落-分享计算机经典巨著-- ! --www.shubu.com!仅供试看^
+880
+参考文献
+SEI 1995. The Capability Maturity Model: Shneiderman, Ben, and Richard Mayer.
+Guidelines for Improving the Software F
+1979.Syntactic/Semanlic Interactions
+cess, Software Engineering Institute.
+in Programmer Behavior: A Model and
+Reading, MA: Addison-Wesley, 1995
+Experimental Results." International
+SEl, 2003. "Process Maturity Profile:
+Journal of Computer and Information Sci-
+ware CMM, CBA IPI and SPA Appraisal
+ences8,no.3:219-38
+Results: 2002 Year End Update," Soft- Shneiderman, Ben. 1976. "Exploratory Ex-
+ware Engineering Institute, April 2003. periments in Programmer Behavior. "In-
+Selby, Richard W., and Victor R. Basili
+ternational Joumnal of Computing and
+Information Science 5: 123-43
+Structure." IEEE Transactions on Software Shneiderman, Ben. 1980. Software Psychol-
+Engineering SE-17, no. 2 (February):
+ogy: Human Factors in Computer an
+141-52
+Information Systems. Cambridge, MA:
+SEN 1990. "Subsection on Telephone Sys-
+Winthrop.
+tems," Software Engineering Notes, April Shneiderman, Ben. 1987. Designing the User
+1990,11-14
+Interface: Strategies for Effective Human-
+Shalloway, Alan, and James R. Trott. 2002. Computer Interaction. Reading, MA: Add-
+Design Patterns Explained. Boston, MA
+ison-Wesley
+Addison-Wesley.
+Shull, et al. 2002. "What We Have Learned
+Sheil,. A. 1981. "The Psychological Study
+About Fighting Defects," Proceedings,
+no.(March): 107 pu ting Surveys 13,
+of Programming."C
+Metrics 2002. IEEE; 249-258
+Simon, Herbert. 1996. The Sciences of the Ar-
+Shen, Vincent Y., et al. 1985. "Identifying Press.
+tificial, 3d ed. Cambridge, MA: MIT
+gineering SE-11, no.(April): 317-24
+Men and Management. Harper and Row,
+Sheppard, S.., et al. 1978. "Predicting Pro- 1965
+grammers' Ability to Modify Software. Simonyi Charles, and Martin Heller. 1991
+TR 78-388100-3, General Electric Com-
+es, a
+pany, May.
+The Hungarian Revolution. BYTE, Au
+gust,131-38
+Sheppard, S. B., et al. 1979. "Modern Cod- Smith, Connie U., and Lloyd G. Williams.
+ing Practices and Programmer Perf
+(December ) 41-mputer 12. reror
+2002. Performance Solutions: A Practical
+mance."IEEE Com
+12 Guide to Creating Responsive, Scalable
+Software. Boston, MA: Addison-Wesley.
+Shepperd, M., and D. Ince. 1989. "Metrics, Software Productivity Consortium, 1989
+Outlier Analysis and the Software De-
+Ada Quality and Style: Guidelines for Pro-
+sign Process. "Information and Software
+fessional Programmers. New York, NY:
+Technology 31, no. 2 (March): 91-98
+Shirazi, Jack. 2000. Java Performance Tun- Soloway, Elliot, and Kate Ehrlich. 1984
+ing. Sebastopol, CA: O'Reill
+ly Associ-r
+"Empirical Studies of Programming
+ates.
+Knowledge."IEEE Transactions on Soft-
+Shlaer, Sally, and Stephen J. Mellor. 1988
+ware Engineering SE-10, no.(Septem-
+Object Oriented Systems Analysis-Model-
+ber):595-609
+ing the World in Data. Englewood Cliffs, Soloway, Elliot, and Sitharama lyengar, eds.
+N: Prentice Hall.
+1986. Empirical Studies of Programmers.
+Norwood, NJ: Ablex
+代码大全(第2版)
+
+<==========================917end ==============================>
+<==========================918start==============================>
+
+该书下载自书部落-分享计算机经典巨著!--www. ! --www.shul.com!仅供试看
+参考文献
+881
+Soloway, Elliot, Jeffrey Bonar, and Kate Ehr Sutter, Herb. 2000. Exceptional C++: 47 Er
+lich. 1983. "Cognitive Strategies and
+gineering Puzzles, Programming Problems,
+Looping Constructs: An Empirical
+and Solutions. Boston, MA: Addison
+Study."Communications of the ACM 26,
+Wesley.
+no.(November): 853-60.
+Tackett, Buford D., IlI, and Buddy Van
+Solution Systems. 1987. World-Class Pro- Doren. 1999. "Process Control for Error
+grammers' Editing Techniques: Interviews
+Free Software: A Software Success Sto-
+mouth, MA: Solution Systemg outh wey
+with Seven Programmers. Sout
+ry,"IEEE Software, May 1999.
+Tenner, Edward. 1997. Why Things Bite
+Sommerville, Ian. 1989. S
+e Engineer
+ing, 3d ed. Reading, MA: Addison-Wesley.
+Back: Technology and the Revenge of Unin-
+tended Consequences. Vintage
+Spier, Michael J. 1976. "Software Malprac- Tenny, Ted. 1988. "Program Readability:
+tice-A Distasteful Experience."Soft
+Procedures versus Comments."IEEE
+ware-Practice and Experience 6: 293-99.
+Transactions on Software Engineering SE-
+Spinellis, Diomidis. 2003. Code Reading
+14, no.(September): 1271-79
+The Open Source Perspective. Boston, MA: Thayer, Richard H., ed. 1990. Tutorial: Soft
+Addison-Wesley
+ware Engineering Project Management.
+SPMN. 1998. Little Book of Configuration
+Los Alamitos, CA: IEEE Computer Soci
+Management. Arlington, VA; Software
+ety Press.
+Program Managers Network.
+Thimbleby, Harold. 1988. "Delaying Com-
+Starr, Daniel. 2003. "What Supports the mitment."IEEE Software, May, 78-86
+Roof?"Software Development. July 2003, Thomas Dave, and Andy Hunt. 2002.
+38-41.
+"Mock Objects," IEEE Software, May/
+Stephens, Matt. 2003. "Emergent Design vs.
+June 2002
+Early Prototyping. May 26, 2003, Thomas, Edward., and Paul. Oman.
+www.softwarereality. com/ design/early_
+1990. " Bibliography of Programming
+prototyping.jsp
+Style." ACM Sigplan Notices 25, no. 2
+tive Video Simulation of a igent Interac-
+Stevens, Scott M. 1989. "Inte
+(February): 7-16
+n of a Code Inspec- Thomas, Richard A. 1984. "Using Com-
+tion. Communications of the ACM 32, no.
+7uly):832-43
+ments to Aid Program Maintenance.
+BYTE, May, 415-22.
+Stevens, W., G. Myers, and L. Constantine. Tripp, Leonard L., William F. Struck,and
+Bryan K. Pflug. 1991. "The Application
+Journal 13, no. 2(May): 115-39.
+of Multiple Team Inspections on a Safe
+Stevens, Wayne. 1981. Using Structured De-
+ty -Critical- Software Standard," Proceed-
+sign. New York, NY: John Wiley &r Sons.
+ings of the 4th Software Engineering
+Stroustrup, Bjarne. 1997. The C++ Program
+Standards Application Workshop, Los
+ming Language, 3d ed. Reading, MA: Ad-
+Alamitos, CA: IEEE Computer Society
+dison-Wesley
+Press.
+U.S. Department of Labor. 1990. "The
+Strunk, William, and E.. White, 2000. Ele- 1990-91 Job Outlook in Brief. Occupa
+ments of Style, 4th ed. Pearson.
+Sun Microsystems, Inc. 2000. "How to Write
+tional Outlook Quarterly, Spring..S
+Doc Comments for the Javadoc Tool,"
+Government Printing Office. Document
+1990-282-086/20007
+2000. available from http://java.sun. com
+/j2se/javadoc/ writingdoccomments/
+代码大全(第2版)
+
+<==========================918end ==============================>
+<==========================919start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--www. !--www.shubu.com!仅供试看^
+882
+参考文献
+Valett,, and F. E. McGarry. 1989. " Sum. Ward, William T. 1989. "Software Defect
+mary of Software Measurement Exper
+Prevention Using McCabe's Complexity
+ences in the Sofcware Engineering
+Metric."Hewlett-Packard Joumnal, April,
+Laboratory." Journal of Systems and Soft-64-68
+ware 9, no.(February): 137-4
+Webster, Dallas E. 1988. "Mapping the De
+Van Genuchten, Michiel. 1991. "Why Is sign Information Representation Ter-
+Software Late? An Empirical Study of rain."IEEE Computer, December, 8-23
+Reasons for Delay in Software Develop- Weeks, Kevin.1992.Is Your Code Done
+ment." IEEE Transactions on Software En-
+Yet?" Computer Language, April, 63-72.
+gineering SE-17, no. 6 (June): 582-90.
+Van Tassel, Dennie. 1978. Program Style,
+Weiland, Richard J. 1983. The Programmer's
+Craft: Program Construction, Computer
+Design, Efficiency, Debugging, and Testing.
+2d ed. Englewood Cliffs, N]:Prentice
+Architecture, and Data Management. Re-
+Hall
+ston, VA: Reston Publishing
+Vaughn-Nichols, Steven. 2003. "Building
+Weinberg, Gerald M. 1983. "Kill That
+Better Software with Better Tools," IEEE
+Code!"Infosystems, August, 48-49
+Computer, September 2003, 12-14.
+Weinberg. Gerald M. 1998. The Psychology
+Vermeulen, Allan, et al. 2000. The Elements Sary
+of Computer Programming: Silver Anniver
+of Java Style. Cambridge University House.
+sary Edition. New York, NY: Dorset
+Press.
+Vessey, Iris, Sirkka. Jarvenpaa, and Noam
+Weinberg, Gerald., and Edward L. Schul-
+Tractinsky. 1992. "Evaluation o
+man. 1974. "Goals and Performance in
+Computer Programming. "Human Fac-
+l Companions. Communications of the tors 16, no. 1 (February): 70-77.
+M35,no.4(April):91-105
+Veinberg, Gerald. 1988. Rethinking Systems
+Vessey, Iris. 1986. "Expertise in Debugging
+Analysis and Design. New York, NY: Dor
+set House
+Computer Programs: An Analysis of the
+Content of Verbal Protocols."IEEE Weisfeld, Matt. 2004. The Object-Oriented
+Transactions on Systems, Man, and Cyber-
+Thought Process, 2d ed. SAMS, 2004
+netics SMC-16, no.(September/Octo-
+Veiss, David M. 1975. "Evaluating Soft-
+ber):621-37
+ware Development by Error Analysis:
+Votta, Lawrence G., et al. 1991. "Investigat
+The Data from the Architecture Research
+ing the Application of Capture-Recap
+Facility. Journal of Systems and Software
+ture Techniques to Requirements and
+,no.2(une):57-70
+Design Reviews." Proceedings of the Six-Weiss, Eric A. 1972. "Review of The Psychol-
+teenth Annual Software Engineering Work
+shop, December 4-5, 1991
+gy of Computer Programming, by Gerald
+M. Weinberg." ACM Computing Reviews
+MD: Goddard Space Flight Center. Doc- 13, no.(April): 175-76
+ument SEL-91-006.
+Wheeler, David, Bill Brykczynski, and Regi
+Walston, C. E., and C. P. Felix. 1977. "A
+nald Meeson. 1996. Software Inspection:
+Method of Pogramming
+surement An Industry Best Practice. Los Alamitos.
+and Estimation. "IBM Systems Journal 16,
+no.1:54-73
+CA: IEEE Computer Society Press.
+Whittaker, James 2000 "What Is Soft-
+Ward, Robert. 1989. A Programmer's Intro-
+ware Testing? And Why Is It So Hard?'
+duction to Debugging C. Lawrence, KS: R IEEE Software, January 2000, 70-79
+& Publications.
+代码大全(第2版)
+
+<==========================919end ==============================>
+<==========================920start==============================>
+
+该书下载自-书部落分享计算机经典巨著!--www. !--www.shub.com!仅供试看
+参考文献
+883
+Whittaker, James A. 2002. How to Break Youngs, Edward A. 1974. "Human Errors in
+Software: A Practical Guide to Testing. Bos-
+Programming." Intemational Journal of
+ton, MA: Addison-Wesley.
+Man-Machine Studies 6: 361-76
+Whorf, Benjamin. 1956. Language, Thought Yourdon, Edward, and Larry L. Constan-
+and Reality. Cambridge, MA: MIT Press.
+tine. 1979. Structured Design: Fundamen-
+Wiegers, Karl. 2002. Peer Reviews in Soft-
+tals of a Disciplit
+ine of Computer Program
+ware: A Practical Guide. Boston, MA
+and Systems Design. Englewood Cliffs,
+dison-Wesley
+NJ: Yourdon Press.
+Wiegers, Karl. 2003. Software Reaupements
+ents. Yourdon, Edward,ed.1979. Classics in Soft-
+ware Engineering. Englewood Cliffs, N]:
+Williams, Laurie, and Robert Kessler. 2002
+Yourdon Press.
+Pair Programming Iluminated. Boston,
+Yourdon, Edward,ed.1982. Writings of the
+MA: Addison-Wesley.
+Revolution: Selected Readings on Software
+Willis, Ron R., et al. 1998. "Hughes Air-
+Engineering. New York, NY: Yourdon
+Press.
+Continuously Improving Software Pro- Yourdon, Edward. 1986a. Managing the
+cess," Software Engineering Institute/
+Structured Techniques: Strategies for Soft-
+Carnegie Mellon University, CMU/-
+ware Development in the 1990s, 3d ed
+98-tr-006,may1998.
+New York, NY: Yourdon Press.
+Wilson, Steve, and Jeff Kesseiman. 2000 Yourdon, Edward. 1986b. Nations at Risk.
+Java Platform Performance: Strategies and
+New York, NY: Yourdon Press.
+Tactics. Boston, MA: Addison-Wesley. Yourdon, Edward. 1988. "The 63 Greatest
+Wirth, Niklaus. 1995. "A Plea for Lean Soft-
+Software Books. "American Programmer,
+ware,"IEEE Computer, February 1995
+September.
+Wirth, Niklaus. 1971. "Progra
+Yourdon, Edward. 1989a. Modern Struc-
+ment by Stepwise Retine gram Develop tured Analysis. New York, NY:Yourdon
+emen
+Commu-
+nications of the ACM 14, no.(April):
+Press.
+221-27.
+Yourdon, Edward. 1989b. Structured walk.
+Wirth, Niklaus. 1986. Algorithms and Data
+Throughs, 4th ed. New York, NY: Your-
+Structures. Englewood Cliffs, NJ: Prentice
+don Press.
+Hall.
+Yourdon, Edward. 1992. Decline &Fall of
+Woodcock, Jim, and Martin Loomes. 1988
+the American Programmer. Englewood
+Software Engineering Mathematics. Read-
+Cliffs, N]: Yourdon Press.
+ing, MA: Addison-Wesley
+Zachary, Pascal. 1994. Showstopper! The
+Woodfield, S. N.,. E. Dunsmore, and V. Y. Free Press.
+Shen. 1981. "The Effect of Modulariza- Zahniser Richard A. 1992. "A Massively
+tion and Comments on Program Com- Parallel Software Development Ap
+prehension." Proceedings of the Fifth
+proach." American Programmer, January,
+International Conference on Software Engi-
+34-41.
+neering, March 1981, 215-23.
+Wulf, W. A. 1972. "A Case Against the GO.
+TO." Proceedings of the 25th National
+ACM Conference, August 1972, 791-97..
+代大全(第2版)
+
+<==========================920end ==============================>
+<==========================921start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--www. ! --www.shubulo..com!仅供试看^
+
+<==========================921end ==============================>
+<==========================922start==============================>
+
+该书下载自书部落-分享计算机经典巨著!--www. ! --www.shubulo.com!^ .com!仅供试看^
+Index
+索引
+ccess r
+symbols and Numbers access roulines
+operations examples, table of,
+(pointer declaration symbol), 332,
+abstraction benefit, 340
+129-130
+334-335,763
+abstraction, level of, 341-342
+passing of data, minimization of,
+&(pointer reference symbol), 332 advantages of, 339-340
+128
+->(pointer symbol), 328
+barricaded variables henefit, 339 performance improvements with
+80/20rule,592
+centralized control from, 339
+128
+creating, 340
+purpose of, 126
+A
+g.pretix guideline, 340
+real-world entities, working with
+information hiding benefit, 340
+abbreviation of names, 283-285
+lack of support for, overcoming, representation question, 130
+abstract data types. See ADTs
+340-342
+simple items as, 131
+Abstract Factory pattern, 104
+locking, 341
+verification of code benefit, 12
+abstraction
+parallelism from, 342
+access routines for, 340-342
+requiring, 340
+agile development, 58, 658
+algebraic identities, 630
+ADTs for. See ADIS
+accidental problems, 77-78
+algorithms
+air lock analogy, 136
+checklist, 1:
+accreting a system metaphor, 15-16 commenting,809
+accuracy, 464
+classes for, 152,157
+Ada
+cohesion with,138
+metaphors serving as, 11-12
+description of, 63
+complexity, for handling, 839
+74-175
+resources on, 607
+parameter order, 174-17
+consistent level for class
+routines, planning for, 223
+adaptability, 464
+interfaces, 135-136
+aliasing, 311-316
+Adapter pattern, 104
+defined, 89
+analysis skills development, 823
+addition, dangers of, 295
+approaches to development
+erosion under modification
+13
+agile development, 58, 658
+evaluating,
+35
+abstraction with, 130
+access routines, 339-342
+697-698
+exactness goal, 136-137
+fo
+benefits of, 126-129
+Extreme Programming, 58
+rming consistently, 89-90
+changes not propagating benefit
+471-472,482,708,856
+good example for class interfaces,
+133-134
+128
+importance of, 839-841
+iterative approach. See iteration in
+guidelines tor creating class
+interfaces, 135-138
+cooling system example, 129-130
+development
+data, meaning of, 126
+high-level problem domain terms, defined, 126
+premature optimization problem,
+840
+847
+implementation structures,
+documentation benefit, 128
+quality control, 840. See also
+low-level,846
+explicit instancing, 132
+quality of software
+inconsistent, 135-136, 138
+resources for, 58-59
+guidelines, 130-131
+interfaces, goals for, 133-138
+sequential approach, 35-36
+levels of, 845-84
+hiding inf
+formation with, 127
+team processes, 839-840
+instancing, 132
+opposites, pairs of, 137
+top- down approaches,111-113.
+implicit instancing, 132
+694-696
+OS level, 846
+in
+terlaces, making more
+architecture
+placing items in inheritance trees. low-level
+building block definition, 45
+146
+w- -level data types as.
+business rules, 46
+media independence with, 131
+poor example for class interface
+buying vs. building components
+134-13
+muleiple instances, handling.
+51
+roble
+131-133
+problem domain terms, low-level, need for, example of, 126-127
+changes, 44, 52
+846
+checklist for, 54-55
+non-object-oriented languages
+programming-language level,846
+with,131-133
+routines for, 164
+class design.
+com
+commitment delay strategy, 52
+objects as, 130
+conceptual integrity of, 52
+代码大全(第2版)
+
+<==========================922end ==============================>
+<==========================923start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--www. ! --www.shubulo.com!^.com!仅供试看
+886
+索引
+architecture,continued
+performance tuning, 593-594, Liskov Substitution Principle,
+data design, 46
+603-604
+144-145
+defined,43
+refactoring, 572
+overridable vs. non-overridable
+error handling, 49-50
+references, minimizing, 626-627 routines, 145-146
+cault tolerance, 50
+semantic prefixes for, 280-281 protected data, 143
+sentinel tests for loops, 621-623
+routines overridder to do
+importance of, 44
+sequencial access guideline, 310
+nothing, 146-147
+inpuloutput, 49
+assembly language
+single classes from, 146
+internationalization planning, 48
+description of. 63
+Basic, 65. See alsa Visual Basic
+interoperability, +8
+listing tools, 720
+basis testing, structured, 503,
+key point for, 60
+recoding to, 640-642
+505-509
+localization planning. 48
+assertions
+BCD(binary coded decimal) type.
+machine independence, 53
+heering. 5
+aborting program recommended,
+297
+overengineering.
+1
+206
+BDUF (big design up front), 119
+percent of total activity, by size of arguments for, 189
+beauty,80
+project,654-655
+assumptions to check, list of, 190 begin-end pairs, 742-743
+performance goals, 48
+barricades, relation to, 205 bibliographies, software, 858
+performance-oriented, 590
+benefits ol, 189
+big-bang integration, 6
+prerequisite nature of, 44
+building your own mechanism
+big design up front (BDUF), 119
+program organization, 45-46
+for, 191
+binary searches, 428
+quality,52-53,55
+C++ example, 191
+binding
+resource management, 47
+dangerous use of example, 192 in code, 252
+resources on developing, 57
+defined, 189
+compile time, 252-253
+reuse decisions, 52
+heuristic design with, 107
+risky areas, identifying, 53
+dependencies, checking for, 350
+error handling with, 191, 193-194 just in time, 253
+scalability,48
+executable code in, 191-192
+key point, 258
+security design, 47
+guidelines for, 191-193
+load time, 253
+technical feasibility, 51
+run time, 253
+time allowed for, 56
+Java example of, 190
+postcondition verification,
+user interfa
+variables, timing of, 252-254
+ce design, 47
+192-193
+black-box testing, 500
+validation design, 50
+precondition verification,
+blank lines for formatting, 747-748,
+anthmetic expressions
+192-193
+765-766
+misleading precedence example, removing from code, 190
+733
+blocks
+resources for, 212
+braces writing rule, 443
+magnitudes, greatly different, 295
+Visual Basic examples, 192-194 comments on, 795-796
+multiplication, changing to
+assignment statements, 249, 758
+conditionals, clarifying, 443
+addition, 623-624
+author role in inspections, 486
+defined, 443
+rounding errors, 297
+auto_ptrs, 333
+emulated pure layout style.
+arrays
+automated testing, 528-529
+740-743
+Clanguage macro for, 311
+pure, layout style, 738-740
+checkist, 317
+single statements, 748-749
+containers as an alternative, 3
+B
+backup plans,669,670
+Book Paradigm, 812-813
+costs of operations, 602
+boolean expressions
+cross-talk, 311
+bad data, testing for, 514-515
+0, comparisons to, 441-442
+defined, 310
+barricades
+dimensions, minimizing.
+assertions, relation to, 205
+Os and Is as values, 432
+breaking into partial tests, 433
+625-626
+class-level, 204
+C languages syntax, 442-443
+end points, checking, 310
+foreach loops with, 372
+input data conversions, 20
+interfaces as boundaries, 203
+characters, comparisons to zero
+inde
+441
+ndexes of, 310-311
+operating room analogy, 204
+checklist for, 459
+layout of references, 754
+purpose of, 203
+constants in comparisons,
+loops with, 387-388
+base classes
+442-443
+nal, 310
+abstract overridable routines, 145
+naming conventions tor, 280-281
+abstraction aspect of, 89
+decision tables, moving to, 435
+coupling, too tight, 143
+DeMorgan's Theorems, applying.
+436-437
+代码大全(第2版)
+
+<==========================923end ==============================>
+<==========================924start==============================>
+
+该书下载自-书部落分享计算机经典巨著!--www. !--www.shubulo.com!^.com!仅供试看
+索引
+887
+ation guidelines, 438-440
+evaluatio
+labeled, 381
+side effects, 759-761
+functions, moving to, 434-435
+multiple in one loop, 380
+source files, layout in, 773
+identifiers for, 431-433
+nested-if simplification with.
+caching, code tuning with, 628-629
+if statements, negatives in,
+446-447
+Capability Maturity Model (CMM),
+435-436
+while Joops with, 379
+491
+implicit comparisons, 433
+bridge failure, Tacoma Narrows, 74 capturing design work, 117-118
+Java syntax, 439, 443
+tware
+0
+Bridge pattern, 104
+Cardinal Rule of Software Evolution,
+layout guidelines, 749-75
+brute-force debugging, 548-549
+565
+logical identities, 630
+buffer overruns, 196
+CASE(computer-aided software
+negatives in, 435-437
+bugs. See debugging; defects in code; engineering) tools, 7I0
+numeric. structuring, 440-441
+errors
+case statements
+parentheses for clarilying,
+build tools, 716-717. See also
+alpha ordering, 361
+437-438
+compilers
+checklist, 365
+pointers, comparisons with, 441 building metaphor, 16-19
+debugging,206
+positive form recommended.
+building vs. buying components, 18 default clauses, 363
+435-43
+buile
+drop-throughs, 363-365
+refactoring, 572
+ds, daily. See daily build and
+smoke tests
+short circuit evaluation, 438-440 busin
+end of case statements, 363-365
+simplifying. 433-435
+architecture prerequisites, 46
+endine layout, 751-752
+error detection in, 363
+variables in. See boolean variables
+change, identifying areas of, 98
+frequency of execution ordering
+zero, comparisons to, 441-442
+boolean functions
+good practices table for, 31-32
+361,612-613
+creating from expressions,
+buying components, 18, 51
+if statements, comparing
+performance with, 614
+434-435
+key points, 366
+if statements, used in, 359
+boolean tests
+C
+language support for, 361
+breaking into panes., 433
+Clanguage
+nested ifs, converting from
+448-449451
+hiding with routines, 165
+ADTs with, 131
+simplifying, 301-302
+boolean
+normal case first rule, 36]
+aexpression syntax,
+442-443
+numeric ordering, 361
+zero, comparisons to, 441-442
+description of, 64
+ordering cases. 36
+and 1s as values, 432
+parallel modifications to, 566
+naming conventions for, 275, 278 phony variables, 361362
+C,creating data type, 302-303
+Dinters, 334-335
+string data types, 299-301, 317
+polymorphism preferable to
+check
+ecKlist,
+147-148
+documentation with, 301
+string index errors, 299-300
+enumerated types as alternative, C#,64
+redesigning,453
+C++
+refactoring, 566, 573
+304
+simple action guideline, 361
+expressions with. See boolean
+assertion example, 191
+table-driven methods using
+xpressions
+boolean expression synta
+mtax,
+442-443
+421-42
+identifiers for, 431-433
+naming, 26B-269
+debugging stubs with, 208-209
+change control. See configuration
+simplifying tests with, 301-302
+description of, 64
+management
+DoNothing() macros, 444-445
+character arrays, 299-300. See also
+boss readiness test on prerequisites,
+string data types
+exceptions in, 198-199
+3031
+inline routines, 184-185
+character data types
+bottom-up approach to design,
+interface considerations, 139-141
+arrays vs. string pointers, 299
+299-301
+112-113
+fayout recommended, 745
+Clanguage,
+bottom-up integration, 697-698
+character sets, 298
+checklist, 316-317
+boundary analysis, 513-514
+naming conventions for, 275-277
+braces
+null statements, 444-445
+conversion strategies, 299
+block layout with, 740-743
+parameters, by reference vs. by
+magic (literal) characters
+styles compared, 734
+value, 3.
+297-298
+Unicode, 298, 299
+break stateme
+pointers,325,328-334,763
+chara
+C++ loops,371-372
+preprocessors, excluding debug
+aracter, personal
+analysis skills, 823
+caution about, 381
+code207-208
+guidelines, 379-380
+resources for, 159
+communication skills, 828
+代码大全(第2版)
+
+<==========================924end ==============================>
+<==========================925start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--www. !--www.shub ^.com!仅供试看
+888
+索引
+character, personal, continued
+daily build and smoke tests, 707 bidirectional associations, 577
+compiler messages, treatment of, data organization, 780
+826-827
+calls to, refactoring, 575
+data types, 316-318
+case statements vs. inheritance,
+computer-science graduates, 829
+debugging, 559-561
+147-148
+cooperation skills, 828
+defects,489,559-560
+centralizing control with, 153
+creativity, 829, 857
+defensive programming, 211-212 changes, limiting effects of, 153
+curiosity,822-825
+design,122-123,78
+checklists,157-158,774,780
+development process awareness, documentatic,780-781
+coding routines from
+822
+816-817
+dseudocod
+pseudocode, 225-229
+encapsulation, 158
+estimations,827-828
+317
+cohesion as refactoring indicator,
+enumerated types, 31
+566
+experience, 831-832
+fixing defects, 560
+complexity issues, 152-153
+experimentation, 822-823
+formal inspections, 489. 491-492 constant values returned, 574
+gonzo programming.832
+habits, 833-834
+formatting, 773-774
+constructors, 151-152
+goto statements, 410
+humility81,826,834
+if statements, 365
+containment, 143-144
+coupling considerations,
+importance of, 819-820
+inheritance, 158
+100-102,142-143
+intellectual honesty, 826-828
+initialization, 257
+data-free, 155
+intelligence,821
+integration, 707
+deep inheritance trees, 147
+judgment, 848
+key points, 83
+5
+interfaces, 579
+defined, 125
+layout, 773-774
+delegation vs. inheritance.
+laziness,830
+list of, xxix-XXx
+refactoring, 576
+mistakes, admitting to, 826
+loops,388-389
+descendants, refactoring indicator
+persistence, 831
+names288-289.780
+for, 567
+practices compensating tor
+pair programming, 484
+designing86,216,220-225,233
+weakness, 821
+parameters, 185
+disallowing functions and
+problem solving, 823
+perlormance tuning, 607-608
+operators, 150
+prolessional development,
+824-825
+pointers, 344
+documenting, 780, 810
+prerequisites, 59
+encapsulation, 139-143,158
+reading, 824
+pseudocoding, 233-234
+religion in programming, harmfu
+extension, refactoring with, 576
+programming tools, 724-725
+factoring, benefit of, 154
+effects of, 851-85.
+quality assurance, 42-43, 70, 476
+files containing, 771-772
+resources on, 834-835
+refactoring,570.577-579,584
+foreign routines, refactoring with.
+status reporting, 827
+requirements.40, 42-43
+576
+successtul projects, learning from
+823-824
+routines, 185, 774, 780
+formalizing contracts for
+speed, tuning for, 642-643
+interfaces, 106
+checklists
+statements, 774
+abstraction, 157
+traight-Jine code, 353
+formatting, 768-771
+straig
+architecture, 54-55
+friend, encapsulation violation
+arrays,
+317
+strings. 316-317
+concern, 141
+structures, 343
+functions in. See functions:
+backups, 670
+tabie-driven methods, 429
+routines
+boolean expressions. 459
+testing, 503,532
+giobal data, hiding, 153
+tools, 70
+155
+tio
+character data types, 316-317 type creatos
+god classes, 15
+.318
+hacking approach to, 233
+classes,157-158,233-234
+variables,257-258,288-289
+hic
+578-57.774780
+343-344
+ding implementation details,
+153
+coding practices, 69
+C
+code tuning, 607-608, 642-643 classes
+jircular dependencies, 95
+implementation checklist, 158
+indirect calls to other classes, 150
+comments,774,816-817
+abstract data types. See ADTs
+guratiostatements, 365
+conditional
+abstract objects, modeling, 152
+mnormation hiding, 92-93
+inheritance, 144-149, 158
+configuration management,
+669-670
+abstraction checklist, 157
+initializing members, 24
+alternates to PPP, 232-233
+integration, 691, 694, 697
+constants, 317
+architecture prerequisites, 46
+irrele
+construction pracs, 773.
+ces,69-70
+assumptions about users, 141
+evant classes, 155
+is a relationships, 144
+control structures, 459, 773, 780 base. See base classes
+key points for, 160, 234
+代码大全(第2版)
+
+<==========================925end ==============================>
+<==========================926start==============================>
+
+该书下载自书部落-分享计算机经典巨著!--www. --www.shubulo.com!^ ^.com!仅供试看^
+索引
+889
+language-specific issues, 156
+superclasses for common code, inefficiency, sources of, 598-601
+layout of, 768-77
+575
+initializing at compile time,
+limiting collaboration, 150
+632-633
+Liskov Substitution Principle,
+test-first development, 233
+inline routines, 639-640
+144-145
+unidirectional associations, 577
+input/output, 598-59
+member variables, naming. 273, visibility of, 93
+integers preferred to floating, 625
+279
+warning signs for, 848, 849
+interpreted vs. compiled
+methods of. See routines 139 cleanup steps, PPP,232
+class-hierarchy generators, 713
+languages, 592, 600-601
+iteration of, 608, 850
+mixins, 149
+modeling real-world objects, 152
+oom development, 521
+jamming loops, 617-618
+CMM(Capability Maturity Modely
+key points, 608, 645
+multiple per file, layout of,
+491
+769-770
+language specificity, 644
+naming. 277,278
+Cobol, 64
+Jazy evaluation, 615-616
+code coverage testing, 506
+lines of code, minimizing numbes
+number of members, 143
+code libraries, 222,717
+number of routines, 150
+code quality analysis tools, 713-714 logic manipulation guidelines,
+object names, differentiating from, code reading method, 494
+610-616
+272-273
+code tuning
+lookup tables for, 614-615,635
+objects, contrasted with, 86
+80/20rule,592
+loops,616-624
+overlormatting, 770
+advantages from, 591
+overriding routines, 145-146, 156 algebraic identities, 630
+low-level language, recoding to,
+640-64
+packages, 155-157
+2
+parallel modifications refactoring arrays, 593-594, 603-604.
+measurement to locate hot spots,
+indicalor, 566
+625-627
+603-604,644
+memory vs. file operations,
+planning for program families,
+154
+assembler, listing tools, 720
+598-599
+assembler, recoding to, 640-642
+private vs, protected data, 148
+minimizing work inside loops,
+bottleneck identification, 594
+620-621
+privare, declaring members as,
+caching data, 628-629
+multiplication, changing to
+procedures in. See routines
+checklists,607-608,642-643
+addition, 623-62
+comparing logic structures, 614
+nested loop order, 623
+protected data, 148
+competing objectives dilemma,
+old wives' tales, 593-596
+pseudocode for designing.
+595
+232-234
+operating system considerations,
+public members, 139, 141, 576
+compiler considerations, 590,
+590
+596-597
+read-time convenience rule, 141
+operation speeds, presumptions
+converting data types, 635
+about, 594
+reasons for creating, 152-156
+correctness, importance of,
+refactoring, 155, 574-576,
+operations, costs of common,
+601-603
+578-579,582
+595-596
+data transformations, 624-629
+optimizing as you go, 594-595
+resources, 159
+dara type choices, 635
+overviey
+u go,
+Overview of, 643-644
+reusahility benefit of, 154
+database indexing, 601
+delects in code, 601
+paging operations, 599
+routine construction step, 217
+Pareto Principle, 592
+defined, 59
+routines in. See routines
+DES example, 605-606
+precomputing results, 635-638
+routines,unuscd, 146-147,576
+program requirements view of,
+semantic violations (14
+589
+disadvantages of, 591
+re
+encapsulation, 141-142
+disassemblers, 720
+reractoring, compared to, 609
+Set() routines, unnecessary, 576
+resource goals, 590
+similar sub and superclasses, 576 expressions, 630-639
+resources on, 606-607, 644-645
+right shifting, 634
+ance
+146
+feature specific, 595
+singleton property, enforcing, 151 frequency, testing in order of,
+routines,590,639-640
+steps in creating, 216-217
+612-613
+sentinel tests for loops, 621-623
+streamlining parameter passing.
+short-circuit evaluation, 610
+1
+frequently used code spots, 592
+speed, importance of, 595-596
+hardware considerations, 591
+subclasses, 165, 575
+strength reduction, 623-624
+improvements possible, 605
+630-632
+indexing data, 627-628
+代大全(第2版)
+
+<==========================926end ==============================>
+<==========================927start==============================>
+
+该书下载自书部落-分享计算机经典巨著!--www. ! --www.shul.com!仅供试看^
+890
+索引
+code tuning, continued
+collective ownership, 482. See also preceding code rule, 798
+subexpression elimination,
+coll
+638-639
+collaboraton
+nentati
+proportionality of, 806
+comments. See also documentation
+pseudocode, deriving from, 220,
+summary of approach for, 606
+*vs.790
+784,791
+system calls, 599-600, 633-634 abbreviations in, 799
+purpose of, 782
+tools,720
+algorithms,
+repeating code with, 786
+unrolling loops, 618-620
+argument agamst, 782
+resources on, 815
+unswitching loops, 616-617
+authorship, 81I
+variations in environments for.
+nato
+8
+routines with, 805-809, 817
+bad code, on, 56
+self-commenting code, 796-797
+594
+blank lines around, 765-766
+Socratic dialog about, 781-785
+when to tune, 596
+Book Paradigm for, 812-813
+standards, IEEE, 813-814
+code-generation wizards, 718
+style differences, managing, 683
+coding. See also construction,
+checklists,7,86817
+style violations, 801
+software construction overview classes,810
+summaries of code, 787
+samnn
+conventions. See conventions,
+coded meanings, 802-803
+surprises, 798
+coding
+control structures, 804-805, 817
+icha
+tricky code, 798, 801
+practices checklist, 69
+declarations with, 794, 802-803, undocumented features, 800
+sequential. See straight-line code
+816
+variables, 803
+software construction as, 5
+descriptions of code intent, 787 version control, 811
+style. See layout
+distance to code guideline, 806
+why vs. how, 797-798
+cohesion
+efficient creation of, 788-791
+interfaces, class, 138
+endline comments, 793-795
+sworkarounds, 800
+ommitment delay strategy, 52
+ulines, designing with, 168-171 errors, marking workarounds,
+communication skills, importance
+strength reduction, 623-624,
+800
+of828
+630-632
+explanatory,786
+communicational cohesion, 169
+coincidental cohesion, 170
+files,810-811
+communications, development
+collaboration
+flags, bit level, 803
+team, 650
+code reading, 494
+gtobal variables, 803, 809
+comparisons
+collective ownership benefits, 482 indentation guidelines 764-765 boolean. Seeboolean tests
+mparisons techniques, table
+individual lines with, 792-795
+loating-point equality, 295-296
+of,495-496
+input data, 803, 808
+mixed data types, 293
+cost advantage, 480-481
+defined,479,480
+int grating into development, 791 compilers
+interfaces, class, 810
+binding during compilation,
+design phase, 115
+intertaces, routine, 808
+252-25
+development time benefit, 480
+Javadoc, 807, 815
+broken builds, 703
+dog-and-pony shows, 495
+key points, 817
+extending beyond construction,
+data type warnings, 293
+layout guidelines, 763-766
+483
+debugging tools, as, 557, 827
+legal notices, 811
+Extreme Programming method, ngth of descriptions.
+errors, finding in routines,
+482
+230-231
+line numbers, debugging with
+formal inspections. See formal loops, 804-805
+549
+inspections
+General Principle of Software
+maintenance ol, 220, 788-791,
+794
+messages, treatment of, 549,
+826-827
+Quality,481
+major vs. minor, 799-800
+inspections. See formal
+markers, 787
+multiple error messages, 550
+optimizations by, 596--597
+inspections
+non-code essential information,
+key points, 497
+788
+performance tuning
+mentoring aspect of, 482
+numerical data, 802
+project-wide standards for, 557
+pair programming. See pair
+optimum density of, 792
+speeds from optimization, table
+programming
+output data, 808
+purpose of, 480
+paragraphs of code with
+of597
+standards, IEEE, 497
+tools for, 716
+795-801,816
+testing, compared to, +81
+tricky code optimization, 597
+parameter declarations, 806-807
+validators with, 231
+walk-throughs, 492-493
+collections, refactoring, 572
+parts of programs, 809
+warnings, 293, 557
+performance considerations, 791
+代码大全(第2版)
+
+<==========================927end ==============================>
+<==========================928start==============================>
+
+该书下载自书部落分享计算机经典巨著!-www. !--www.shubulo.com!^.com!仅供试看^
+索引
+891
+completeness of requirements
+equality, branching on, 355
+purpose of, 307
+checklist, 43
+error processing examples,
+refactoring, 571
+complex data types. See structures
+356-357
+simulating in languages lacking,
+complexiry
+Irequency, testing in order of,
+309
+abstraction for handling, 839
+612-613
+construction. See also software
+classes for reducing, 152
+il statements. See if statements
+coding conventions for reducing.
+key points, 366
+construction overview
+collaborative. See collabaration
+839
+lookup tables, substituting,
+siot
+contr
+utiaans to
+decisions. See construction
+ntrol structure contributions to,
+614-615
+decisions
+456-459
+looping, conditional. See loops
+guidelines, 66
+conventions for managing.
+normal case first guideline,
+844-845
+managing. See managing
+356-357
+construction
+decision points, counting, 45
+importance ol, 457
+normal path first guideline, 355
+percent of total activity, by size of
+null if clauses, 357
+project, 654-655
+isolation, classes for, 153
+plain ifthen statements, 355-357 prerequisites. See prerequisites.
+live time, 459
+refactoring, 573
+upstream
+management, 77-79, 844-845
+McCabe's metric, 457-458
+Shorf-circuit evaluation, 610
+quality of. See quality of software
+mental objects held, measure of.
+resources on, 856
+statements
+457
+confessional debugging, 547-548
+schedules, estimating. See
+construction schedules
+methods for handling, 837-839 configuration management
+minimization goal, 80
+architectural anticipation of
+estimating
+patterns, reducing with, 103
+change,52
+size of projects, effects on. See size
+of projects
+problem domain, working at 845 backup plans, 669, 670
+tools for. See programming tools
+s for re
+boards, change-control, 667
+construction decisions
+routines for reducing, 164
+bureaucratic considerations, 667
+checklist of major construction
+size of projects, effect on,
+checklist, 669-670
+656-657
+practices,69-70
+code changes, 667-668
+span459
+coding practices checklist, 69
+cost, estimating, 666
+early-wave environments, 67
+component testing, +99
+defined, 664
+key points for, 70
+components, buying, 18,51
+design changes,666-667
+Composite pattern, 10
+major construction practices,
+estimating change costs, 666
+selecting, 69-70
+compound boundaries, 514
+grouping change requests, 666
+compound statements. See blocks
+mature technology environments
+high change volumes, 666
+67
+computed-value qualifiers of
+variable names, 263-264
+identifying areas of change, 97-99
+programming conventions, 66-66
+machine configurations,
+computer-aided software
+programming into languages,
+engineering(CASE) tools, 710
+reproducing. 668
+68-69
+conditi
+purpose of, 664-665
+programming languages. See
+onal statements
+boolean function cads with, 359
+requirements changes, 41, 664,
+programming language choice
+666-667
+boolean variables recommended.
+301-302
+resources on, 670
+teamwork checklist, 69
+SCM,665
+case statements. See case
+technology waves. determin
+tool version control, 668
+statements
+your location in, 66-69
+version-control software, 668
+tools checklist, 70
+chained if-then-else statements,
+oIs chec
+const keyword, C#+, 176, 177, 243, construction schedules, estimating
+358-360
+274,333
+approaches to, list of, 671
+checklist, 365
+constants
+common cases first guideline,
+09E-65E
+checklist, 317
+catching up from behind,
+consistency rule, 309
+camparing performance of, 614
+declarations using, 308
+contolingvs., 675
+covering all cases, 360
+defined, 307
+factors influencing. 674-675
+lel
+level of detail for, 672
+ed,355
+eliminating testing redundancy.
+emulation by global variables, 338 multiple techniques with
+610-61
+nitializing, 243
+literals, avoidi
+conparisons, 672
+else clauses, 358-360
+308309
+objectives, establishing, 671
+naming,270,273,277-279
+optimism, 675
+代大(第2版)
+
+<==========================928end ==============================>
+<==========================929start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--www. ! --www.shub.com!仅供试看^
+892
+索引
+construction schedules, estimating, unindented begin-end pairs, 746 D
+continued
+unusual, overview of, 408
+daily build and smoke tests
+overview, 671
+71
+conventions, coding
+henefits of, 844-845
+automation of, 704
+planning estimation time, 6
+benefits of, 702
+broken builds, 703, 705
+reestimating. 672
+formatting. See layout
+build groups, 704
+requirements specification, 672
+hazards, avoiding with, 844
+resources for, 677
+checklist,707
+s tor,
+teams, expanding, 676
+predictability benefit, 844
+converting data types, 655
+defined,702
+diagnosis benefit, 702
+constructors
+skills, importance of, holding area for additions,
+d
+eep vs. shallow copies, 151-152
+828
+exceptions with, 199
+correctness, 197, 463
+70470570
+guidelines for, 151-152
+costs. See also perfor mance tuning
+morning releases, 705
+initializing data members, 151
+change estimates, 666
+nrece
+refactoring, 577
+pressure, 706
+collaboration benefits, 480-481 pretest requirement, 704
+singleton property, enforcing, 151 debugging, time consumed by,
+container classes, 310
+474-47
+revisions, 704
+contannment, 88, 143
+smoke tests, 703
+continuation lines, 754-758
+defects contributing to. 519-520 unsurfaced work, 702
+etection of defects, 472
+continue statements, 379, 380, 381
+data
+continuous integration, 706
+rror-prone routines, 518
+architectur
+fixing of defects, 472-473, 519
+bad classes, testing for, 514-515
+boolean expressions in. See
+General Principle of Software
+change, identifying areas of, 99
+boolean expressions
+Quality,474-475,522
+code tuning. See data
+case. See case statements
+transformations for code
+pair programming vs. inspections,
+checklists, 459, 773, 780
+tuning
+480-481
+commenting, 804-805, 817
+combined states, 509-510
+resources on, 658
+complexity, contributions to,
+defined state, 509-510
+456-459
+counted loops. See for loops
+coupling
+defined-used paths, testing.
+compound statements, 443
+510-512
+base classes to derived classes,
+conditional flow. See conditional
+143
+design, 46
+statements
+classes, too tightly, 142-143
+entered state,509
+continuatic
+exited state, 509
+on limes in, 757
+con
+design considerations, 100-102
+data types, relationship to
+254-255
+flexibility of, 100-101
+good classes, testing, 515-516
+killed state, 509-510
+goals of, 100
+ocumentation,780
+loose80,100-102
+legacy, compatibility with, 516
+double indented begin-end pairs
+nominal case errors, 515
+746-747
+object-parameter type, 101
+test, generators for, 524-525
+gotos. See goto statements
+semantic type, 102
+types. See data types
+if stat
+statements. See if statements
+Simple-data parameter type, 101
+simple-object type, 101
+used state, 509-510
+iteration, 255, 456
+data dictionaries, 715
+size of, 100
+key points, 460
+visibility of, 100
+data flow testing, 509-512
+ayout styles, 745-752
+data literacy test, 238-239
+loops. See loops
+coverage
+monitoring tools, 526
+data recorder tools, 526
+multipie returns from routines,
+data structures. See structures
+391-393
+structured basis testing, 505-509 data transformations for code
+statements, 444-445
+crc(Class, Responsibility51
+Collaboration)cards, 118
+tuning
+eliability correlaatrsion
+creativity, importance of, 829,85
+array dimension minimization,
+625-626
+cross-reterence tools, 713
+complexity, 457
+array reference minimization
+retu
+curosity rote in character,822-825
+selearns as. See return statemenis Currency data types, 297
+626-627
+selective data with, 254
+caching data, 628-629
+customization, building metaphor
+sequential data with, 254
+for, 18
+oating point to integers, 625
+structured programming.
+indexing data, 627-628
+454-455
+purpose of, 624
+代码大全(第2版)
+
+<==========================929end ==============================>
+<==========================930start==============================>
+
+该书下载自书部落-分享计算机经典巨著!-www. ! --www.shubulo.com!^^.com!仅供试看
+索引
+893
+data typesy conver
+changes, recent, 547
+symbolic debuggers,526-527
+"a" prelix convenlion, 272
+efix
+checklist, 559-561
+syntax checking, 549-550, 557,
+abstract data types. See ADTs
+comments, misplaced, 550
+560
+arrays. See arrays
+common defects lists, 547
+system debuggers, 558
+BCD,297
+compilers as toois for, 549, 557 test case creation, 544
+boolean. See boolean variables
+confessional debugging, 547-548 testing, compared to, 500
+change, identifying areas of, 99
+costs of,29-30,474-475
+characters. See character data
+debugger tools, 526-527,545,
+time for, setting maximums, 549
+tools for,526-527545,556-559
+types
+checklist,316-318
+556-559,79 See also
+719. See also debugging aids
+debuging aldsnities, 537-538 unit tests, 545
+understanding the problems, 539
+complex. See structures
+control structures, relationship to,
+254-255
+defensive. See debugging aids
+definea,
+53
+varying test cases, 545
+warnings, treating as errors, 557
+creating. See type cteation
+Diff tool, 556
+debugging aids
+erency, 297
+execution profilers for, 557-558
+definitions, 278
+C++ preprocessots, 207-208
+expanding suspicious regions,
+case statements, 200
+enumerated types. See
+547
+early introduction recommended,
+enumerated types
+experience of programmers,
+danng-point. See foating-point
+effects of, 537
+206
+offensive programming, 206
+ata types
+finding defects, 540,559-560
+integers. See integer data types fixing defects, 550-554
+planning removal of, 206-209
+iterative data, 255
+pointers, checking, 208-209
+guessing,539
+key points for, 318
+preprocessors, 207-208
+history of, 535-536
+naming,273,277278
+production constraints in
+hypothesis testing, 543-544, 546 d
+numenc. See numeric data types
+development versions, 205
+overloaded primitives, 567
+incremental approach, 547
+purpose of, 205
+ineffective approach to, 539-540
+pointers. See pointers
+key poin
+stubs,208-209
+y points, 562
+refactoring to classes, 567, 572
+version control tools, 207
+line humbers from compilers, 549 decision tables. See table-driven
+resources on, 239
+selective data, 254
+lint tool, 55
+methods
+listing possibilities, 546
+declarations
+locating error sources, 543-544
+strings. See string data types
+logic checking tools, 557
+commenting794,802-803,816
+const recommended, 243
+structures. See structures
+multiple compiler messages, 550
+nded
+declare and define near first use
+Iispretir convention. 272
+narrowing code searches,546
+user-defined. See type creation
+rule,242-243
+obvious lixes, 539
+variabies of, differentiating from,
+defi
+etine near tirst use rule,
+22-273
+performance variations, 536-537
+databases
+project-wide compilers settings,
+557
+final recommended, 243
+pertormance issues, 601
+psychological considerations.
+fotmalting. 761-763
+554-556
+implicit declarations, 239-240
+subsystem design, 85572S7
+multiple on one line, 761-762
+naming. See naming conventions
+days-in-month, determining,
+quotation marks, misplaced, 550 numerical data, commenting, 802
+413-414
+readability improvements, 538
+order of, 762
+deallocation
+recommended approach, 541
+goto statements for, 399
+reexamining defect-prone code
+placement of, 762
+pointers,325-326,763
+pointers, of, 326, 330, 332
+using all declared, 257
+resources for, 561
+Debug.Assert statements, 191-193
+Decorator pattern, 104
+debugging
+Satan's helpers, 539-540
+defects in code
+aids to. See debugging aids
+8tor558
+classes prone to error, 517-518
+binary searches of code, 546
+scientific method of, 540-544
+classific
+cations of, 518-52
+self-knowledge from, 538
+blin
+clerica
+breakpoints. of, 554-555
+cal errorstypos),519
+eakpoints, 558
+source-code comparators, 556
+stabilizing errors, 542-543
+Code Compiete example,
+breaks, taking, 548
+490~491
+brute-force, 548-549
+superstitious approaches
+539-540
+construction,proportion
+resulung from, 520-521
+大全(第2版)
+
+<==========================930end ==============================>
+<==========================931start==============================>
+
+该书下载自-书部落分享计算机经典巨著!-www. ! --www.shubulo.com!^ ^.com!仅供试看
+894
+索引
+defects in code, continued
+security issues, 212
+divide and conquer technique,
+cosl of daetectign, 477
+cost of fixing, 472-473
+trivial errors guideline, 209
+111
+validating input, 188
+documentation, as, 781
+databases of, 527
+defined data state, 509-510
+documentation overkill, 117
+detection by various techniques, defining variables. See declarations
+emergent nature of, 76
+table of, 470
+Delphi, recoding to assembler,
+encapsulation, 90-91
+distribution of, 517-518
+640-642
+enough, determiring, 118-119
+ease of fixing defects, 519
+DeMorgan's Theorems, applying.
+essential problems, 77-78
+error checklists, 489
+436-437
+expected rate of, 521-522
+extensibility goal, 80
+dependencies, code-ordering
+finding, checklist, 559-560
+formality of, determining.
+115-117
+fixing. See debugging; fixing
+checker tools, 716
+circular, 95
+formalizing class contracts,106
+defects
+clarifying, 348-350
+formal inspections tor detecting.
+concept of, 347
+goals checklist, 122-123
+good practices table for, 31-32
+See formal inspections
+intermictent, 542-543
+documentation, 350
+heuristic. See heuristic design
+error checking, 350
+misunderstood designs as sources
+hierarchies for, 105-106
+hidden, 348
+high fan-n goal, 80
+initialization order, 348
+opportunities presented by.
+537-538
+naming routines, 348-349
+information hiding, 92-97, 120
+Ron-obvious, 348
+outside of construction domain,
+inheritance, 91-92
+organization of code, 348
+519
+iteration practice, 111-117
+parameters, effective, 349
+percentage of, measurement,
+469-472
+design
+leanness goal, 81
+performance issues, 601
+abstractions, forming consistent
+level of detail needed, 115-117
+89-90
+levels of, 82-87
+programmers at fault for, 519
+accidental problems, 77-78
+readability improvements, 538
+BDUF,119
+loose coupling goal, 80
+refactoring after fixing, 582
+low-to-medium fan-out goal, 81
+beauty, 8
+oals. 8
+scope of, 519
+self-knowledge from, 538
+bottom-up approach to design,
+maintenance goals, 80
+mental limitations of humans, 79
+size of projects, effects on,
+12-113i subsystem, 85
+metrics, warning signs from, 848
+651-653
+nondeterministic nature of, 76, 87
+capturing work, 117-118
+sources of, table, 518
+object-oriented, resource for, 119
+central points of control, 107
+stabilizing, 542-543
+objects, real world, finding, 87-89
+defensive programming
+change, identifying areas of.
+97-99
+packages level, 82-85
+assertions, 189-194
+changes, management of,
+patterns, common. See patterns
+assumptions to check, list of, 190 666-667
+pertormance tuning
+barricades, 203-205
+considerations, 589-590
+checklist, 211-212
+characteristics of high quality.
+portability goal, 81
+80-81
+debt
+ugging aids, 205-209
+practice heuristics. See heuristic
+checklists, 122-123, 781
+defined, 187
+design
+classes, division into, 86
+error handling for, 194-197
+practices, 110-118, 122
+collaboration, 115
+exceptions, 198-203, 211
+prioritizing during, 76
+communications among
+riendly messages guideline, 210
+prototyping, 114-115
+subsystems, 83-84
+resources for, 119-121
+completion of, determining.
+guidelines for production code.
+209-210
+115117
+restrctive nature of, 76
+reusability goal, 80
+routines, of, 86-87
+Dortasn errors guideline, 209
+comepiexity management, 77-80
+construction activity, as, 73-74
+sloppy process nature of, 75-76
+1
+contract, by, 233
+key paints for, 21.
+soltware system level, 82
+logging guideline,210
+coupling considerations, 100-102
+standard techniques goal, 81
+problems caused by, 2.
+10
+database access subsystem, 85
+defined, 74
+standards, IEEE, 122
+quality improvement techniques,
+stratitication goal, 81
+diagrams, drawing, 107
+other, 188
+discussion, summarizing, 117
+strong cohesion, 105
+robustness vs. correctness, 197
+subsystern level, 82-85
+代码大全(第2版)
+
+<==========================931end ==============================>
+<==========================932start==============================>
+
+该书下载自书部落-分享计算机经典巨著!-www. !--www.shubulo.com!^ ^.com!仅供试看
+索引
+895
+system dependencies subsystem, design as, 117, 781
+common cases first guideline,
+85
+detailed-design documents, 778
+359-360
+testing for implementation, 503 external, 777-778
+correcmess testing, 358
+tools for, 710
+Javadoc, 807, 815
+default for covering all cases, 360
+top-down approach, 111-113
+key points, 817
+gotos with, 406-407
+tradeofts, 76
+names as,284-285778-779
+null, 358
+UML diagrams, 118
+user interface subsystem, s
+780
+embedded life-critical systems,
+user interfa
+organization of data, 780
+31-32
+visual documentation of, 118
+parameter assumptions, 178
+emergent nature of design process,
+wicked problem narure of, 74-75 pseudocode deriving from, 220 76
+resources ont, 815
+emulated pure blocks layout style,
+destructors, exceptions with, 199
+routine parameter assumptions,
+detailed-design documents, 778
+1
+740-43
+de
+encapsulation
+developer testing. See testing
+routines, 780
+assumptions about users, 141
+development processes. sment
+SDFs,778
+checklist, 158
+approaches to development
+self-docur
+cumenting code, 778-781
+classes, role for, 139-143
+development standards, IEEE, 813
+size of prajects, effects of, 657
+diagrams
+coupling classes too tightly.
+source code as, 7
+heuristic design use of, 107
+standards, IEEE, 813-814
+downcast objects, 574
+UML, 118
+style differences, managing, 683 friend class concern, 141
+Diff tools, 556,712
+UDFs, 778
+1
+direct access table
+heuristic design with, 90-91
+visual, of designs, 118
+advantages of, 420
+minimizing accessibility, 139
+why vs. how,797-798
+private details in class interfaces,
+arrays for, 414
+case statement approach.
+dog and-pony shows
+139-141
+dog tag fields, 326-327
+public data members, 567
+days-in-month example, 413-414 DRY(Don't Repeat Yoursell
+421-422
+DoNothing() macros, 444-445
+public members of classes, 139
+defined, 413
+public routines in intcrfaces
+principle, 565
+concern, 141
+design method for, 420
+duplication
+flexible-mess
+semantic violations of, 141-142
+xible message-tormat example
+avoiding with routines, 164-165 weak, 567
+416-423
+code as refactoring indicator, 565 endless loops, 367, 374
+fudging keys for, 423-424
+insurance rates example, 415-416
+endline comments, 793-795
+keys for, 423-42
+E
+endline layout, 743-745, 751-752.
+object approach, 422-423
+early-wave environments, 67
+enumerated types
+transforming keys, 42
+disassemblers, 720
+ease of maintenance design goal, 80 benefits of, 303
+eclecticism,851-852
+discipline, importance of.829
+editing tools
+booleans, alternative to, 304
+C++,303-304,306
+discourse rules, 733
+beautifiers, 712
+disposing of objects, 206
+changes benefit, 30
+4
+class-hierarchy generators, 713
+divide and conquer technique, 111 cross-reference tools, 713
+checklist, 317
+ivision, 292-293
+Dil tools, 712
+comments substituting for.
+Do loops, 369-370. See also loops
+grep,711
+802-803
+creating for Java, 307
+documentation
+DEs,710-711
+abbreviation of names, 284-285
+interface documentation, 713
+defined, 303
+ADTs for, 128
+merge tools, 7
+emulation by global variables, 33
+bad code, of, 568
+multiple-fie string searches,
+explicit value pitfalls, 306
+Book Paradigm for, 812-813
+711-712
+first entry invalid trick, 305-306
+templates, 713
+iterating through, 305
+capturing work, 117-118
+checklists,780-781,816-817
+efficiency,464
+Java, creating for, 307
+classes,780
+eighty/twenty (80/20) rule, 592
+languages available in, 303
+c
+loop limits with, 305
+comments. See comments
+se clauses
+naming,269.274,277-279
+control structures, 780
+boolean
+CRC cards for, 118
+runction calls with, 359
+case statements instead of, 360
+parameters using, 303
+dependencies, clarifying. 350
+chains, in, 358-360
+readability from, 303
+relia
+bility benefit, 304
+代码大全(第2版)
+
+<==========================932end ==============================>
+<==========================933start==============================>
+
+该书下载自书部落-分享计算机经典巨著!--www. ! --www.shul.com!仅供试看^
+896
+索引
+enumerated types, continued
+factors influencing. 674-675 preprocessors, 718-719
+standard for, 306
+level of detail for, 672
+setup tools, 718
+validation with, 304-305
+inaccuracy, character-based, Exit Function, 391. See also return
+Visual Basic, 303-306
+827-828
+statements
+equality, floating-point, 295-296 multiple techniques with
+Exit statements. See break
+equivalence partitioning, 512
+comparisons,672
+objectives, establishing, 671
+statements
+error codes, 195
+Exit Sub, 392-393. See ulso return
+error detection, doing early, 29-30 optimism, 6
+statements
+error guessing, 513
+overview, 671
+exiting loops, 369-372, 377-381
+error handling. See also exceptions
+planning for estimation time, 671 experience, personal, 831-832
+architecture prerequisites, 49-50
+redoing periodically, 672
+experimental protoryping, 114-115
+assertions, compared to, 191
+reduction of scope, 676
+barricades, 203-205
+requirements specification, 672
+experimentation as learning.
+822-823,852-853
+buffer overruns compromising,
+exponential expressions, 631-632
+196
+resources for, 677
+teams, expanding, 676
+closest legal value, 195
+expressions
+event handlers, 170
+defensive progra 4ng
+evolution. See software evolution
+boolean. See boolean expressions
+techniques for, 194-197
+constants, data types for, 635
+initializing at compile time.
+error codes, returning, 195
+Evolutionary Delivery. See
+incremental development
+632-633
+error-processing routines, calling,
+netaphe
+met
+or
+196
+layout guidelines, 749-750
+exceptions. See also error handling
+precomputing results, 635-638
+high-level design implication, 197 abstraction issues, 199-200
+right sbifting, 634
+local handling, 196
+aiternatives to, 203
+l
+strength reduction, 630-632
+ogging warning messages, 195
+base classes for, project specific,
+messages49,195-196,210
+subexpression elimination,
+203
++,198-199
+638-639
+next valid data, returning, 195
+system calls, performance of,
+previous answers, reusing, 195 centralized reporters, 201-202
+propagation design,
+633-634
+constructors with, 199
+retactoring, 5
+extensibility design goal, 80
+de
+returning neutral values, 194
+tensive programming checklist, exlernal audits, 467
+211
+robustness, 51, 197
+structor
+ment
+external documentation, 777-778
+destructors with, 199
+routines, designing along with
+empty catch blocks rule, 201
+Extreme Programming
+collaborat
+222
+encapsulation, breaking, 200
+defect detection, 471-472
+shutting down, 196
+full information rule, 200
+defined, 58
+validation design, 50
+Java,198-201
+resources on, 708,856
+error messages
+codes,returning. 195
+languages, table comparing,
+198-199
+design,49
+level of abstrac
+dis
+splaying, 196
+code gection rule, 199-200 F
+library code generation of, 201
+Facade pattern, 104
+friendly messages guideline, 210
+local handling rule, 199
+facrorials, 397-398
+ertors. See aiso defects in code;
+factoring, 154. See also refactoring
+exceptions
+non-exceptional conditions, 199
+factory methods
+classifications of, 518-520
+readability of code using, 199
+Factory Method pattern, 103-104
+coding. See defects in code
+retactoring, 57
+nested ifs refactoring example,
+dog tag ficlds, 326-327
+resources
+es tor,
+213
+452-453
+e
+handing. See eoreptan
+standardizing use of, 202-20
+ctoring
+refactoring to, 577
+dling
+Visual Basic, 198-199, 202 fan-in, 80
+goto statements for processing.
+fan-out, 81
+401-402
+execution profilers, 557-558,720
+farming metaphor, 14-15
+sources of. table, 518
+build tools, 716-717
+fault tolerance, 50
+essential problems, 77-78
+code libraries, 717
+estimating schedules
+feature-oriented integration,
+700-701
+approaches to, list of, 671
+code generation wizards,718
+Fibonacci numbers, 397-398
+ontroe costs, 666
+compilers. See compilers
+installation tools,718
+figures, list of, xxxiii
+control, compared 10, 675
+linkers, 716
+代码大全(第2版)
+
+<==========================933end ==============================>
+<==========================934start==============================>
+
+该书下载自书部落分享计算机经典巨著!--www. ! --www.shubulo.com!^^.com!仅供试看
+索引
+897
+files
+foreach loops, 367, 372
+G
+ADTs, treating as, 130
+formal inspections
+General Principle of Software
+authorship records for, 811
+author role, 486
+C++ source file order, 773
+Quality
+benefit summary, 491
+deleting multiple example,
+blame game, 490
+collaboration effects, 481
+costs, 522
+401-402
+checklist, 491-492
+debugging,537
+documenting, 810-811
+CMM, 491
+defined, 474-475
+layout within, 771-773
+Code Complete example,
+naming, 772,811
+global variables
+490491
+routines in, 772
+access routines fot. See access
+final keyword, Java, 243
+compared to other collaboration
+routines
+495-496
+finally statements, 404-405
+aliasing problems with, 336-337
+defined, 485
+fixing defects
+alternatives to, 339-342
+egos in, 490
+checking fixes, 553
+error checklisis, 489
+annotating, 343
+checklist, 560
+expected results from, 485-486
+changes to, inadvertent, 336
+diagnosis confirmation, 551
+checklist for, 343-344
+fine-tuning,489
+varial
+hurrying. impact of, 551
+class variable alternatives, 339
+initi
+3
+follow-up stage,489
+code reuse problems, 337
+Initialization defects, 55.
+maintenance issues, 553
+inspection meetings, 488
+commenting, 803, 809
+one change at a Lime rule, 553 management role, 486-487
+enumerated types emulation by,
+teasoning for changes. 553
+338
+moderator role, 486
+saving unfixed code, 552
+prefix guideline, 340
+similar defects, looking for, 554
+overview stage, 487
+performance appraisals from, 487
+hiding implementation in classes,
+153
+special cases, 553
+planning stage, 487
+symptoms, fixing instead of
+information hiding problems
+preparation stage, 487-488
+problems, 552-553
+with,95-96
+understand first guideline,
+procedure for, 487-489
+rate of code review,488
+initialization problems, 337
+550-55
+50-55
+reports, 488-489
+intermediate results, avoiding,
+343
+unit tests for, 554
+resources for, 496-497
+flags
+key points, 344
+change, identifying areas of,
+reviewer role, 48
+local first guideline, 339
+reviews, compared to, 485
+98-9
+locking,341
+rework stage, 489
+comments for bit-level meanings,
+roles in, 486-487
+modularity damaged by, 337-338
+803
+scenarios approach, 488
+named constants emulation by,
+enumerated types for, 266-267
+scribe role, 486
+gotos, rewriting with, 403-404
+stages of, 4
+487-4
+naming,263,273,277.278279
+89
+names for, 266-267
+342
+three-hour solutions meeting,
+semantic coupling with, 102
+formal technical reviews, 467%
+objects for, monster, 343
+flexibility
+formatting code. See layout
+overview of, 335-336
+coupling criteria for, 100-101
+Fortran,64
+persistence of, 25
+defined, 464
+functional cohesion, 168-169
+preservation of values with, 338
+floating-point data types
+functional specification. See
+re-entrant code problems, 337
+accuracy limitations, 295
+refactoring, 568
+irements
+BCD,297
+ris
+functions. See also routines
+reduction strategies, 342-343
+checklist,316
+catculations converted to
+routines using as parameters, 336
+costs of operations, 602
+e
+ntic coupling with, 102
+equality comparisons, 295-296
+xample, 166-16
+defined, 181
+streamlining data use with, 338
+magnitudes, greatly different,
+disallowing, 150
+tramp data, eliminating with, 338
+key point for, 186
+god classes, 155
+rounding errors, 297
+naming conventions for, 172, 181
+gonzo programming, 832
+.Visual Basic types, 297
+for loops
+private, overriding, 146
+good data, testing, 515-516
+return values, setting, 182
+goto statements
+advantages of, 374
+Ada, inclusion in, 399
+formatting,773376-7
+status as return value, 181
+advantages of, 399
+indexes,378
+Fundamentat heb-i82
+Fundamental Theorem of
+alternatives compared with, 405
+purpose of, 372
+Formatting.732
+checklist,410
+代码大全(第2版)
+
+<==========================934end ==============================>
+<==========================935start==============================>
+
+该书下载自-书部落分享计算机经典巨著!-www. !--www.shubulo.com!^.com!仅供试看^
+898
+索引
+goto statements, continued
+change, identifying areas of,
+humiliry, role in character, 821, 826,
+deallocation with, 399
+97-99
+834
+disadvantages of, 398-399
+checklist for, 122-123
+Hungarian naming convention, 279
+duplicate code, eliminating with, collaboration, 115
+hybrid coupling of variables.
+399
+else clauses with, 406-407
+communications benefit from
+256-257
+patterns,104
+error processing with, 401-402
+completion of, determining,
+Fortran's use of, 399
+forward direction gu
+uideline, 408
+115-117
+guidelines, 407-408
+coupling considerations, 100-102(input/output)
+diagrams, drawing, 107
+atchitecture prerequisites, 49
+indentation problem with, 398
+divide and conquer technique,
+change, identifying ateas of, 98
+key points, 410
+111
+performance considerations,
+layout guidelines, 750-751
+598-599
+legitimate uses of, 407-408
+error reduction with patterns, 103 IDEs(Integrated Development
+optimization problem with, 398
+patte
+formality of, determining.
+Environments),710-711
+debating abour, 400-401
+phon
+115-117
+IEEE (Institute for Electric and
+readability issue, 398
+formalizing class contracts, 106
+Electrical Engineers), 813
+resources for, 409-410
+goals checklist, 122-123
+if statements
+rewritten with nested ifs,
+guidelines for using, 109-110
+b
+oolean function calls with, 359
+hierarchies for, 105-106
+break blocks, simplification with
+rewritten with status variables,
+446-447
+403-404
+htormation hiding, 92-97,120
+inheritance, 91-92
+case statements, compared to,
+rewritten with try-linally,
+intertaces, formalizing as
+360,614
+404-405
+contracts. 106
+case statements, converting to,
+trivial rewrite example, 400-+01
+iteration practice, 111-117
+448-449,451
+unused labels, 408
+key points, 123
+chains of, 358-360
+graphical design tools, 710
+checklist, 365
+grep,711
+level of detall needed, 115-117
+common cases first guideline,
+growing a system metaphor, 14-15
+modularity, 107
+multiple approach suggestion,
+359-360
+GUls(graphical user interfaces)
+110
+continuation lines in, 757
+architecture prerequisites, 47
+nature of design process, 76
+covering all cases, 360
+ndeterministic basis for, 87
+else clauses, 358-360, 406-407
+subsystem design, 85
+object-oriented, resource for, 119
+equality, branching on, 355
+objects, real world, finding, 87-89 error processing examples,
+H
+patterns,103-105,120
+356-357
+habits of programmers, B33-834
+practices, 110-118, 122
+factoring to routines, 449-451
+hacking approach to design, 233
+prototyping, 114-115
+flipped, 358
+Tesources for, 121
+frequency, testing in order of,
+hardware
+dependencies, changing, 98
+responsibilities, assigning to
+612-613
+performance enhancement with,
+objects, 106
+gotos rewritten with, 402-403.
+406-407
+591
+on,
+ha
+sa
+summary list of rules, 108
+relationships, 143
+if-then-else statements. converting
+heuristic design
+testing, anticipating, 106
+to,447-448
+top-down approach, 111-112. 113
+key points, 366
+abstractions, forming consistent,heuristics
+89-90
+lookup tables, substituting,
+14-615
+alternatives from patterns, 103
+aigorithms compared to,12
+design with. See heuristic design
+multipie returns nested in,
+binding time considerations, 107
+error guessing, 513
+392-393
+b
+ttom-up approach to design.
+iding. See information hidingo
+negatives in, making positive
+112-11
+hierarchies, benefits of, 105-106
+435-436
+brute force, 107
+high fan-in design goal, 80
+human
+lan aspects of software
+dested. See nested if statements
+capturing work, 117-118
+normal case first guideline,
+356-357
+central points of cohtrol, 107
+development. Sce character,
+1
+ersonal
+normal path. first guideline, 355
+nuli if ciauses, 357
+代码大全(第2版)
+
+<==========================935end ==============================>
+<==========================936start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--www. ! --www.shub.com!仅供试看
+索引
+899
+plain if-then statements, 355-357 information hiding
+initializing variables
+selactoring, 573
+access routines for, 340
+accumulators, 243
+simplification, 445-447
+ADIs for, 127
+at declaration guideline, 241
+single-statement layout, 748-749 barriers to, 95-96
+C++ example, 24i
+tables, replaci
+cing with, 413-414 categories of secrets, 94
+checklist for, 257
+types of, 355
+circular dependencies problem, class members, 243
+implicit declarations, 239-240
+95
+compiler settings, 243
+implicir instancing, 132
+class data mistaken for global
+consequences of failing to, 240
+in keyword, creating, 175-176
+data95-96
+con
+const recommended, 243
+incomplete preparation, causes of,
+cla
+constants, 243
+25-27
+incremental development metaphor, example, 93-94
+douncers,243
+declare and define near first use
+15-16
+excessive distribution problem,
+tule,242-24
+incremental integration
+95
+benelits of, 693-694
+mn
+importance of, 92
+final recommended, 243
+b
+first use guideline, 241-242
+ottom-up strategy, 697-698
+interfaces, class, 93
+fixing defects, 553
+classes, 694, 697
+perlormance issues, 96
+globat variables, 337
+customer relations benefit, 694 pri
+defined,692
+privacy rights of classes, 92-93 importance of, 240-241
+resources for, 120
+disadvantages of top-down
+Java example, 242-243
+secrets concept, 92
+strategy, 695-696
+key point, 258
+errors, locating,693
+itype creation for, 313-314
+loops, variables used in, 249
+nheritance
+feature oriented integration,
+ner
+parameter validity, 244
+access privileges from, 148
+700-701
+case statements, 147-148
+pointer problems, 241, 244
+325-326
+interface specification, 695, 697 checklist, 158
+progress monitoring benefit, 693
+93 containment compared to, 143
+Principle of Proximity, 24
+2
+reinitialization, 24.
+resources on, 708
+decisions involved in, 144
+strings, 300
+results, early, 693
+deep trees、 1147
+risk-oriented integration, 699
+system perturbers, testing with,
+sandwich strategy, 698-699
+defined, 144
+design rule for, 144
+527
+Visual Basic examples, 241-242
+scheduling benefits, 694
+functions, private, overriding, 146 initializing working memory, 24
+guidelines, list of, 149
+inline routines, 184-185
+heuristic design with, 91-92 input parameters, 274
+strategies for, overview, 694
+stubs,694,696
+identitving as a design step, 88
+input/output. See/
+is a relationships, 144
+summary of approaches, 702
+ints
+inspections. See formal inspections
+key points for, 160
+test drivers, 697
+Liskov Substitution Principle,
+installation tools, 718
+instancing objects
+top-down strategy for, 694-696
+144145
+T-shaped integration, 7OL
+ADTs, 132
+main goal of, 136
+factory method, 103-104
+.vertical-slice approach, 696
+mixins, 149
+singleton, 104, 151
+ess tables, 425-426.
+multiple, 148-149
+integer data types
+idexed access tables,
+overridable vs. non-overridable
+checklist, 316
+428-429
+routines, 145-146
+indexes, supplementing data types
+costs of operations, 602
+with627-628
+parallel modifications refactoring
+risior
+wit
+ndicator, 566
+aivision considerarions, 293
+overflows, 293-295
+indexes, loop
+aerations, 377
+placement of common items in
+ree,. protected data, 148
+Integrated Development
+enumerated types for, 305
+final values, 377-378
+private, avoiding, 143
+inte Environments(IDEs),710-711
+egration
+recommended bias against, 149
+benefits of,690-691,693-694
+scope of, 383-384
+routines overridden to do
+big-bang, 691
+infinite loops, 367, 374
+nothing, 146-147
+bottom-
+single-instance classes, 146
+ttom-up strategy, 697-698
+broken builds, 703
+intormal reviews, 467, 492-493
+similar sub and super classes, 576 checklist, 707
+大全(第2版)
+
+<==========================936end ==============================>
+<==========================937start==============================>
+
+该书下载自书部落-分享计算机经典巨著!-www. !--www.shubulo.com!^.com!仅供试看
+900
+索引
+integration,continued
+guidelines for creating, 135-138
+design practice, 111-117
+classes,691,694,697
+foreign routines, refactoring with, Extreme Programming, 58
+contiruous, 706
+57
+i
+850-851
+customer relations, 694
+daily build and smoke test,
+Iconsistency with members rerertance of gs
+problem, 138
+sequential approach compared.
+702-706
+inconsistent abstraction, example 33-34
+defined,689
+of135-136
+pseudocode component of, 219
+disadvantages of top-down
+information hiding role, 93
+strategy, 695-696
+specification
+integration, specification during.
+errors, locating, 693
+695,697
+J
+feature oriented strategy. 700-701 key points for. 160
+jamming loops, 617-618
+689-691
+mixins, 149
+Java etion
+assertion example in, 190
+incremental. See incremer
+objects, designing for, 89
+boolean expression syntax, 443
+integration
+opposites, pairs of, 137
+description of, 65
+interface specification, 695, 697 poor abstraction example
+exceptions, 198-201
+key points, 708
+134-135
+layout recommended, 745
+monitoring, 693
+private details in, 139-141
+live time examples, 247-248
+phased, 691-692
+programmatic preferred to
+naming conventions for,276,277
+resources on, 707-708
+semantic, 137
+parameters example, 176-177
+risk-oriented strategy, 699
+public routines in interfaces
+persistence of variables, 251
+sandwich strategy, 698-699
+concern, 141
+resources for, 159
+scheduling, 694
+read-time convenience rule, 141 Javadoc, 807, 815
+slices approach, 698
+refactoring, 575-576, 579
+JavaScript, 65
+routines, moving to refacter, 575 JUnit, 531
+strategies for, averview, 694
+routines, unused,576
+jusl in time binding, 253
+stubs,694,696
+semantic violations of
+summary ot approaches, 702
+encapsulation, 141-142
+testing,499, 697
+K
+top-down strategy for, 694-696
+unrelated information, handling, key construction decisions. See
+13
+T-shaped integration, 701
+interfaces, graphic. See GUIS
+construction decisions
+unsurfaced work, 702
+intertaces, routine. See also
+killed daca state, 509-510
+vertical-slice approach, 696
+parameters of routines
+kinds of software projects, 31-33
+integrity,46
+intellectual honesty, 826-828
+rmmenting,808
+foreign routines, refactoring with.
+L
+i
+intellectual tooibox approach, 20
+576
+intelligence, role in character, 821
+languages, programming. See
+interfaces, class
+pseudocode for, 226
+abstraction aspect of, 89,
+puorc member vana
+bles,576
+programming language choice
+Law of Demeter, 150
+routines, hiding, 576
+layout
+133-38,566
+routines, moving to refactor, 575 array references, 754
+calls to classes, refactoring, 575
+internationalization, 48
+interoperability, 48
+assignment statemen
+consistent level of abstraction,
+continuations, 758
+135-136
+interpreted languages, performance
+begin-end pairs, 742-743
+of,600-601
+blank lines, 737,747-748
+delegation vs. inheritance,
+invalid input. See validation
+block style, 738-743
+refactoring, 576
+brace styles, 734, 740-743
+documenting, 713, 810
+rator ode. seesalsa loops
+foreach foops, 367, 372
+erosion under modification
+C++ side effects, 759-76
+iterative data, 255
+checklist,773-774
+abstr.
+terator loops, defined, 367
+classes, 768-771
+evaluating abstraction of, 135
+Itera
+extension classes, refactoring
+erator pattern, 104
+closely related statement
+with, 576
+structured programming concept
+elements, 755-756
+lizir
+formalizing as contracts, 106
+of456
+comments, 763-766
+ite
+good abstraction example,
+erauon in development
+ode ttng. reasons for, 35-36
+choosin
+rofaplicated expressions,
+133-134
+c
+749-750
+tuning,
+ncy
+consistency requirement, 735
+代码大全(第2版)
+
+<==========================937end ==============================>
+<==========================938start==============================>
+
+该书下载自-书部落分享计算机经典巨著!-www. !--www.shubulo.com!^.com!仅供试看
+索引
+901
+continuing statements. 754-758
+leanness design goal, 81
+eliminating testing redundancy
+control statement continuations, legal notices, 811
+610-611
+757
+length of variable names, optimum, frequency, testing in order of,
+control structure styles, 745-752
+262
+declarations, 761-763
+612-613
+levels of design
+identities,630
+discourse rules, 733
+business logic subsystem, 85
+layout of, 753
+documentation in code, 763-766 classes, divisions into, 86
+lazy evaluation, 615-61
+double indented begin-end pairs,
+d
+746-747
+latabase access subsystem, 85 lookup tables, substituting
+overview of, 82
+614-615
+emulating pure blocks, 740-743
+packages, 82-85
+short-circuit evaluation, 610
+ennds
+ndline layout, 743-745,751-752
+routines, 86-87
+loops
+ends of continuations, 756-757
+abnormal,371
+files, within, 771-773
+software system,
+Fundamental Theorem of
+system dependencies
+arrays with, 387-388
+system dependencies subsystem, bodies of, processing, 375-376
+Formatting,732
+85
+38
+gotos,750-751
+user interface subsystem, 85
+incomplete statements, 754-755 libraries, code
+brackets recommended, 375
+break state
+indentation, 737
+purpose of, 717
+ments,71-372
+379-380,381
+interfaces, 768
+key points, 775
+using functionality from, Z22
+checklist, 388-389
+libraries, book. See software-
+language-specific guidelines, 745
+development libraries
+code tuning, 616-624
+logical expresstons.
+commenting, 804-805
+life-tycle models
+completion tests, location of, 368
+logical structure, reflecting. 732,
+good practices table for, 31-32
+compound, simplifying, 621-623
+735
+development standard, 813
+mediocre example, 731-732 linked lists
+contiuously evaluated loops,
+misleading indentation example,
+367. See also while loops
+deleting pointers, 330
+continuation hines in, 757
+732-733
+insernton, 3
+327-329
+continue statements, 379, 380,
+misleading precedence, 733
+pointers, isolating operations of,
+381
+modific
+moaincatons guideline, 736
+325
+counted loops, 367. See also for
+multiple statements per line,
+linkers, 716
+758-761
+lint tool, 557
+loops
+cross talk, 383
+negarive examples, 730-731
+Liskov Substitution Principle(LSP).
+defined,367
+objectives of, 735-736
+144-145
+designing, process for, 385-387
+parentheses for, 738
+lists
+pointers, C++, 763
+of checklists,
+do loops, 369-370
+Urec s, Xxix-Xxx
+empty,avoiding, 375-376
+pure blocks style, 738-740
+ol figures, xxxii
+readability goal.
+at,735
+endless loops, 367, 374
+of tables, xxxi-xxxii
+endpoint considerations.
+religious aspects of, 735
+literal data, 297-298,308-309
+resources on, 774-775
+literate programs, 13
+381-382
+entering, guidelines for, 373-375.
+live time of variables, 246-248, 459 388
+routine call continuations, 756
+load time, binding during, 253
+enumerated types for, 305
+routine guidelines, 766-768
+self-documenting code, 778-781
+architecture
+exit guidelines, 369-372.
+architecture prerequisites, 48
+377-381,389
+single-statement blocks, 748-749
+string data types, 298
+for loops,372,374-378
+statement continuation, 754-758 locking global data, 341
+732-733,746-747
+statement length, 753
+logarithms,632-634
+foreach loops, 367, 372
+73-754 importance of,
+structu
+logging
+fusion of, 617-618
+defensive programming guideline, goto with, 371
+styles overview, 738
+housekeeping statements, 376
+unindented begin-end pairs, 746
+tools for testing, 526
+index aiterations, 377
+violations of. commenting, 801 logic coverage testing, 506
+Visual Basic blocking style, 738 logical cohesion, 170
+index checkist, 389
+white space, 732, 736-737,
+index final yalues,
+377-37
+8
+753-754
+logical expressions. See also boolean index variable names, 265
+expressions
+laziness, 830
+index scope, 383-384
+lazy evaluation, 615-616
+code tuning, 610 -616
+infinite loops, 367, 374
+comparing performance of, 614
+代码大全(第2版)
+
+<==========================938end ==============================>
+<==========================939start==============================>
+
+该书下载自-书部落分享计算机经典巨著!-www. !  --www.shubulo.com! ^.com!仅供试看
+902
+索引
+loops, continued
+naming.183277-278
+measurement
+initialization code for, 373, 374
+parentheses with, 187-183
+advantages of, 677
+iterative data structures with, 255 magazines on programming,
+arguing against, 678
+iterator loops, 367, 456
+859-860
+goais for, 679
+jamming,617-618
+magic variables, avoiding, 292.
+outlier identification, 679
+key points, 389
+297-298,308-309
+resources for, 679-680
+kinds of, generalized, 367-368
+maintenance
+side effects of, 678
+labeled break statements, 381
+comments re
+requir
+language-specific, table of, 368
+quiring, 788-791
+table of useful types of, 678-679
+design goal for, 80
+memory
+length of,385
+error-prone routines, prioritizing
+allocation, error detection for, 206
+minimizing work inside, 620-621
+for,518
+corruption by pointers, 325
+multiple break statements, 380 fixing defects, problems from, 553 fillers, 244
+naming variables, 382-383
+maintainability defined, 464
+initializing working, 244
+nested,382-383385,623
+readability benefit for, 842
+eada
+paging operation performance
+null statements, rewriting, 445
+structures
+23
+off-by-one errors, 381-382
+s lor reaucing,
+impact,599
+major construction practices
+one-function guideline, 376
+pointers, corruption by, 325
+order of nesting.623
+checklist, 69-70
+managing construction
+ools for, 527
+pertormance considerations, 599
+approaches. See approaches to
+pointers inside, 620
+merge tools, 712
+problems with, overview of, 373
+development
+metaphors,software
+pseudocode method, 385-387
+change control. See configuration accreting a system. 15-16
+refactoring. 565, 573
+management
+algorithmic use of, 11,
+code ownership attiludes, 663
+building metaphor, 16-19
+routines in, 385
+complexiry,77-79
+bu
+aponen
+configuration management. See
+nding vs. buying components,
+18
+safety counters with, 378-379
+con
+scope of indexes, 383-384
+coaing on management
+combining, 20
+sentinel tests for, 621-623
+good coding, encouraging.
+computer-centric vs. data-centric
+662-664
+size as refactoring indicator, 565
+str
+ength reduction, 623-624
+inspections, management role in,
+views,
+customization,18
+switching.616
+key points, 688
+discoveries based on, 9-10
+testing redundancy, eliminaino
+s. sun
+termination, making obvious, 3
+earth centric vs. sun centric views,
+managers, 686
+inating,
+measurements,677-680
+10-11
+610--611
+examples of, 13-20
+programmers, treatment of,
+unrolling, 618-620
+farming, 14-15
+680-686
+growing a system, 14-15
+variable guidelines, 382-384
+readability standard, 664
+heuristic use of, 12
+resources on, 687
+variable initializations, 249
+importance of, 9-1
+revewing all code, 663
+variables checklist, 389
+incremental development, 15-16
+verilying termination, 377
+rewarding good practices, 664
+key points for, 21
+while loops, 368-369
+schedules, estimating, 671-677
+modeling use for, 9
+signing off on code, 663
+loose coupling
+overextension of, 10
+design goal, as, 80
+size of projects, effects of. See size
+ayster farming, 15-16
+of projects
+strategies for, 100-102
+pendulum example, 10
+low-to-medium fan-out design goal,
+standards, authority to set, 662
+standards, IEEE, 687, 814
+power
+f,10
+81
+o-person teams, 662
+LSP (Liskov Substitution Principle), markers, defects from, 787
+7
+relative merits of, 10,
+.1
+144-145
+simple vs. complex structures,
+matrices. See arrays
+mature technology environments,
+size of projects, 1
+M
+67
+Macintosh naming conventions, 275
+maximum normal configurations,
+throwing one away, 13-14
+toolbox approach, 20
+macro routines. See also routines
+515
+alternati
+maze recursio
+irsion example, 394-396
+using. 11-12
+writing code exar
+limitations on, 184
+McCabe's complexity metric, +57,
+e.13-14
+multiple statements in
+458
+methodologies, 657-659. See also
+ts in, 183
+measure twice, cut once, 23
+approaches to development
+methods. See routines
+代码大全(第2版)
+
+<==========================939end ==============================>
+<==========================940start==============================>
+
+该书下载自-书部落分享计算机经典巨著!--www. !--www.shubulo.com!^.com!仅供试看
+索引
+903
+metrics reporters, 714
+key points, 289
+redesigning, 453
+minimum normal configurations, kinds of information in names, simplification by retesting
+515
+277
+conditions, 445-446
+mission-critical systems, 31-32
+language-independence
+simplification with break blocks,
+guidelines, 272-274
+446-447
+mixins, 149
+length, not limiting, 171
+summary of techniques for
+mock objects, 523
+Macintosh,275
+reducing, 453-454
+modeling, metaphors as. See
+ne
+metaphors.software
+eanings in names, too similar
+too many levels of, 445-454
+285
+spect
+nested loops
+moderator role in inspections, 486
+misleading names, 285
+designing, 382-383,385
+modularity
+misspelled words, 286
+ordering for performance, 623
+design goal of, 107
+mixed-language considerations
+nondeterministic nature of design
+global variables. damage from.
+276
+3
+process, 76, 87
+337-338
+multiple natural languages, 287 nonstandard language features, 98
+modules, coupling considerations
+numbers, differentiating solely by, null objects, refactoring, 57398
+100-102
+17
+null statements, 44+-445
+multiple inheritance, 148-149
+numerals, 286
+numbers,literal,292
+multiple returns from routines.
+opposites, use of, 172
+ibers,
+numeric data types
+391-393
+parameters,178
+BCD, 297
+checklist, 316
+711-712
+pretix standardization, 279-281
+compiler warnings, 293
+procedure descriptions, 172
+comparisons, 440-442
+proliferation reduction benefit,
+conv
+conversions, showing, 293
+named constants. See constants
+costs of operations, 602
+naming conventions
+pronunciation guideline, 283
+declarations, commenting. 802
+purpose of, 270-271
+fioating-point types, 295-297,
+aprelix convention, 272
+316,602
+abbreviating names, 282-285
+readability, 274
+abbreviation guidelines, 282
+relationships, emphasis of, 271
+hard coded Os and 1s, 292
+reserved names, 287
+arrays, 280-281
+integers, 293-295
+routines,171-173,222
+benefits of, 270-271
+281
+semarc prefixes,280-281
+literal numbers, avoiding.
+92
+Clanguage, 275,278
+short names,282-285,288-289
+C++275-277
+magnitudes, greatly different.
+similarity of names, too much,
+capitalization, 274, 286
+28
+operations with, 295
+case-insensitive languages, 273
+mixed-type comparisons, 293
+characters, hard to read, 287
+spacing characters, 274
+overflows, 293-295
+checklis288-289,780
+prefix convention, 272
+ranges of integers, 294
+class member variables, 273
+thesaurus, using, 283
+zero, dividing by, 292
+class vs. object names, 272-273
+types vs. variables names,
+common operations, for, 172-173
+272-273
+constants, 273-274
+cross-project benefits, 270
+468-469
+d
+Visual Basic, 278-279
+escriptiveness guideline, 171
+object-oriented programming
+documentation, 284-285
+when to use, 271
+778-780
+nested if statements
+hiding information. See
+case statements, converting to,
+enumerated types, 269, 274.
+information hiding
+277-279
+448-449,451
+inheritance. See inheritance
+objects. See classes; objects
+formality, degrees of, 271
+converting to if-then else
+statements, 447-448
+polymorphism. See
+811
+function recurn values, 172
+factoring to routines, 449-451
+factory method approach
+cpolymorphism
+resources for, 119, 159
+global variables, 273, 342
+object-parameter coupling, 101
+homonyms,286
+converting to, 452-453
+functional decomposition of,
+objects
+Hungarian, 279
+450-451
+ADTs as, 130
+informal, 272-279
+ident
+object-oriented approach,
+attribute identification, 88
+nput parameters, 274
+converting to, 452-453
+Java,276,277
+代大全(第2版)
+
+<==========================940end ==============================>
+<==========================941start==============================>
+
+该书下载自书部落-分享计算机经典巨著!--www. ! --www.shubulo.com!^ .com!仅供试看^
+904
+索引
+objects, continued
+defined, 483
+passing parameters, 333'
+class names, differentiating from, inexperienced pairs, 484
+patterns
+272-273
+key points, 497
+advantages of, 103-104
+classes, contrasted to, 86
+pace, matching, 483
+alternatives suggested by, 103
+containment, identifying, 88
+personality conflicts, +84
+communications benefit, 104
+deleting objects, 206
+resources, 496
+complexity reduction with, 103
+factory methods, 103-104,
+rotating pairs,483
+disadvantages of, 105
+452-453,577
+team leaders, 484
+error reduction benefit, 103
+identifying, 88
+ⅵi
+visibility of monitor, 484
+Factory Method, 103-104
+inheritance, identifying, 88. See watching,483
+also inheritance
+resource for, 120
+when not to use, 483
+table of, 104
+interfaces, designing, 89. See alsn
+parameters of routines
+people first theme. See readability
+interfaces,class
+abstraction and object
+performance appraisals, 487
+operations, identilying. 88
+parameters, 179
+parameters, using as, 179, 574
+performance tuning
+actual, matching to formal, 180
+algorithm choice, 590
+protected interfaces, designing,
+nice,
+89
+asterisk(*) rule for pointers,
+architecture prerequisites, 48
+334-335
+public vs. private members,
+beh
+havior dependence on, 574
+arrays,593-594,603-604
+checklist, 607-608
+designing,89
+by reference vs. by value, 333
+bsee code tu
+real world, finding, 87-89
+e tuning
+checklist for, 185
+code tuning for. See cod
+1
+C-library order, 175
+comments, effects on, 791
+refactoring, 574-576
+competing objectives dilemma
+reterence objects, 5
+commenting. 806-807
+595,605
+responsibilities, assigninig to, 106
+compiler considerations, 590.
+singieton property, enforcing, 151
+const prelix, 176, 177, 274
+st
+eps in designing, 87-89
+documentation, 178
+596-597
+Observer pattern, 104
+correctness, importance of,
+enumerated types for, 303
+595-596
+off-by-one errors
+bo
+error variables, 176
+oundary analysis, 513-514
+database indexing, 601
+formal, matching to actual, 180
+defects in code, 601
+xing, approaches to, 553
+global variables for, 330
+ottensive programming.
+guidelines for use in routines,
+DES example, 605-606
+design view, 589-590
+one-in, one-out control constructs,
+174-180
+454
+feature specific, 595
+in keyword creation, 175-176
+sidera
+aperating systems, 590
+hardware considerations, 591
+iput-modify-output order,
+operations, costs of common
+174-17
+inemnctency, soutces of, 598-601
+601-603
+information hiding
+Java,176-177
+pposites for variable names, 264 li
+list size as refactoring indicator,
+considerations of. 96
+optimization, premature, 840. See
+566
+inpuyoutput, 598-599
+interpreted
+also pertormance tuning
+matcl
+ing actual to formal, 180
+compiled
+languages, 600-601
+naming.178,i80,274.277278, key points,608
+overengineering, 51
+279
+lines of code, minimizing number
+number of, limiting, 178
+of,593-594
+overllows, integer, 293-295
+ob
+overlay linkers, 716
+objects, passing. 179
+measurement of, 603-604
+order for, 174-176
+overridable routi
+memory. file op
+operations,
+rou uines. 156 out keyword creation, 175-176
+oyster farming metaphor, 15-16
+598-599
+passing, lypes of, 333
+old wives' tales, 593-596
+refactoring, 571,573
+operating system considerations,
+P
+packages, 156-157
+structures as, 322
+paging operations, 599
+u
+sing all of rule, 176
+operations, costs of common,
+pair programming
+variables, using as, 176-177
+overview of, 643-644
+b
+enetits of, 484
+Visual Basic, 180
+paging operations, 599
+checklist. 484
+parentheses
+technique
+balancing technique, 437-438
+premature optimization, 840
+coding standards support for, 483
+layout with, 738
+program requirements view of,
+compared to other collaboration, Pareto Principle, 592
+589
+495-496
+purpose of, 587
+代码大全(第2版)
+
+<==========================941end ==============================>
+<==========================942start==============================>
+
+该书下载自-书部落分享计算机经典巨著!-www. !--www.shubulo.com!^.com!仅供试看^
+索引
+905
+quality of code, imp
+act on, 588
+debugging aids, 208-209
+alternates to, 232-233
+resource goals, 590
+declaring, 325-326, 763
+for errors, 230-231
+checking for err
+resources, 606-607
+deleting,330-331,332
+checklist for, 233-234
+routine design, 165, 222-223.
+diagramming,329
+cieanup steps, 232
+590
+dog tag fields, 326-327
+coding below comments
+speed, importance of, 595-596 explicit typing of, 334
+227-229
+summary of approach for, 606
+explicitly redundant fields, 327 coding routines from, 225-229
+calls,599-600
+system calls, 599-
+extra variables for clarity,
+data structure for routines, 224
+timing issues, 604
+327-329
+deciarations from, 226
+user view of coding, 588
+hiding operations with routines, defined, 218
+when to tune, 596
+165
+designing routines, 220-225
+periodicals on programming,
+initializing,241,244,325-326
+error handling considerations,
+59-860
+Perl, 65
+interpretation ofaddress
+222
+contents, 324-325
+ex
+persistence of variables, 251-252, isolating operations of, 325
+example for routines, 224
+functionality from libraries, 222
+831
+key points, 344
+header comments for routines.
+personal character. See character,
+languages not providing. 323
+personal
+linked lists, deleting in, 330
+perturbers. See system perturbers
+high-level comments from,
+location in memory, 323
+226-227
+phased integration, 691-692
+memory corruption by, 325-327 iterating, 225
+phonic abbreviations of names, 283 memory paracautes,330
+PHP(PHP Hypertext Processor),65,
+key points for, 234
+600
+null, setting to after deleting, 330
+null, using as warnings, 849
+naming routines, 222
+pertormance considerations,
+physical enviror
+overwriting meinory with junk,
+222-223
+programmers,684-685
+330
+prerequisites, 221
+planning
+parts of, 323
+problem definition, 221
+analogy argument for, 27-28
+passing by reference, 333
+refactoring,229
+uilding metaphor for, 18-19
+reterences, C++, 332
+removing errors, 231
+data arguing for, 28-30
+resources for, 343
+repeating steps, 232
+good practices table for, 31-32
+simplifying complicalea?
+SAFE_ routines for, 331-332
+reviewing pseudocode, 224-225
+logical argument for, 27
+stepping through code, 231
+*(pointer declaration symbol),
+ointers
+expressions, 329
+testing the code, 222, 231
+332,334-335,763
+e)33
+wnting pseudocode step.
+smart, 334
+&(pointer reference symbol), 332
+string operations in C, 299
+223-224
+->(pointer symbol), 328
+precedence, misleading, 733
+address of, 323, 326
+type casting. avoiding, 334
+preconditions
+variables referenced by, checking.
+routine design with, 221
+allocation of, 326, 330, 331
+326
+alternatives to, 332
+veritication, 192-193
+polymorphism
+prefixes, standardization of,
+as function return values, 182
+asterisk(*)rule, 334-335
+case statements, teplacing with
+279-281
+147-148
+premature optimization, 840
+auto_ptrs, 333
+defined, 92
+bounds checking tools, 527
+preparation. See prerequisites,
+language-specific rules, 156
+Clanguage, 334-335
+upstream
+nested ifs, converting to, 452-453 preprocessors
+C++ examples,325,328-334
+polynomial expressions, 631-632
+C++,207-208
+C++ guidelines, 332-334
+portabili
+checki
+debugging aids, removing with,
+heckling before using, 326,331
+data types, defining for, 315-316 207-208
+delined, 464
+purpose of, 718-719
+comparsons with, +41
+routines for, 165
+writing, 208
+contents, interpretation of,
+postconditions
+32432
+prerequisites, upstream
+routine design with, 221
+cover routines for, 331-332
+analogy argument lor, 27-28
+verification, 192-193
+architectural. Sce architecture
+dangers of, 323, 325
+PPP(Pseudocode Programming
+boss readiness test, 30-31
+ata types pointed to, 324-325
+Process)
+deallocation of, 326, 330, 332
+checklist for, 59
+algorithms, researching, 223
+代大全(第2版)
+
+<==========================942end ==============================>
+<==========================943start==============================>
+
+该书下载自书部落-分享计算机经典巨著!--www. !--www.shul.com!仅供试看
+906
+索引
+prerequisices, upstream, continued programmers, character of. See
+code libraries,717
+choosing between iterative and
+character, personal
+code tuning, 72
+sequential approaches, 35-36 programmers, treatment of. See also
+code-generation wizards, 718
+coding too early mistake, 25
+teams
+compilers,716
+compelling argument for, 27-31 overview, 680
+cross-reference tools, 713
+dara a
+ara arguing for, 28-30
+physical environment, 684-685 data dictionaries, 715
+error detection, doing early,
+privacy of offices, 684
+debugging tools, 526-527, 545.
+29-30
+religious issues, 683-684
+558-559,719
+goal of, 25
+resources on, 685-686
+dependency checkers, 716
+good practices table for, 31-32 style issues, 683-684
+design tools, 7I0
+importance of, 24
+time allocations, 681
+Diff tools, 712
+incomplete preparation, causes of.
+variations in performance,
+disassemblers, 720
+25-27
+681-683
+mbler
+editing tools, 710-713
+iterative and sequential mixes, programming conventions
+34-35
+executable-code tools, 716-720
+choosing,
+iterative methods with, 28, 33-34
+6
+execution profiler tools, 720
+coding practices checklist, 69
+key points for, 59-60
+fantasyland, 722-723
+kinds of projects, 31-33
+formatting rules. See layout
+graphical design tools, 7I0
+logical argument for, 27,
+programming into languages,
+grep,711
+Des,710-711
+manager ignorance problem, 26 programming language choice
+interface
+problem definition,36--38
+Ada,63
+k
+documenlation, 713
+ey points, 725
+requirements development. See assembly language, 63
+linkers, 716
+requirements
+Basic, 65
+risk reduction goal,
+merge tools, 712
+C,64
+skills required for success, 25
+metrics reporters. 714
+C#,64
+time ailowed for,55-56
+C++,64
+multiple-file string searches,
+711-712
+WISCA syndrome, 26
+Cobol,64
+preprocessors, 718-719
+e of pro
+Principle of Proximity, 242, 351
+expressiveness of concepts, 63 project-specific tools, 721-722
+guagps
+familiar vs. unfamiliar languages,
+purpose of, 709
+private data, 148
+6
+problem-definition prerequisites, Fortran, 64
+quality analysis, 713-714
+36-38
+higher- vs. lower-level language
+relactoring toois, 714-715
+prablem domain, programming at,
+resources on, 7
+845-847
+productivity, 62
+restructuring tools, 715
+importance of, 61-63
+problem-solving skitls development,
+scripts, 722
+Java,65
+823
+semantics checkers, 713-714
+JavaSctipt, 65
+procedural cohesion, 170
+source-code tools, 710-715
+Perl,65
+syntax checkers, 713-714
+procedures. See also routines
+PHP,65
+naming guidelines f
+when to use, 181-182172
+productivity from, 62
+templates, 713
+testing tools. 719
+programming into languages,
+processes,development. See
+tooi-oriented environments,
+68-69,843
+720-721
+approaches to development
+Python, 6
+translators, 715
+.productivity
+effects of good construction
+ratio of statements compared to version control tools, 715
+code, table of, 62
+practice, 7
+project types, prerequisite
+SQL, 65
+industry average, 474
+corresponding to, 31-33
+thinking, effects on, 63
+size of projects, effects on, 653
+protected data, 148
+Visual Basic, 65
+professional development, 824-825 programming tools
+prototyping, 114-115, 468
+Proximity, Principle of, 242, 351
+professional organizations, 862
+assembier listing tools, 720
+pseudocode
+control of. See control structures autifiers, 712
+program flow
+algorithms, researching, 223
+uild tools, 716-717
+bad, example of, 218-219
+sequential. See straight-tine code
+building your own, 721-722
+program organization prerequisite, CASE tools, 710
+benefits from, 219-220
+45-46
+changing, efficiency of, 220
+program size. See size of projects
+checklist, 724-725
+ch
+class-hierarchy generators, 713
+ecking tor errors, 230-231
+checklist for PPP, 233-234
+代码大全(第2版)
+
+<==========================943end ==============================>
+<==========================944start==============================>
+
+该书下载自书部落-分享计算机经典巨著!--www. ! --www.shubulo.com! ^.com!仅供试看
+索引
+907
+classes, steps in creating, 216-217 quality of software
+understandability, 465
+codi
+227-229
+elow comments,
+accuracy, 464
+usability, 463
+adaptability,464
+when to do assurance of, 473
+coding from, 225-229
+change-control procedures, 468
+comments from, 220, 791
+checklist for, 476
+data structure for routines, 224
+collabe
+laborauve construction. See
+R
+random-data generators, 525
+defined, 218
+correctness, 463
+readability
+y
+designing routines. 220-225
+error handling considerations
+costs of finding defects, 472
+as management standard, 664
+acko
+defects exposing lack of, 538
+2
+le for routines,
+debugging, role of, 474-475, 536 defined, 464
+2
+4
+functionality from libraries, 222
+detection of defects by various
+rechniques, table of, 470
+ormatting for. See layout
+importance of, 13, 841-843
+good, example of, 219
+guidelines for effective use, 218
+development process assurance
+maintenance benefit from, 842
+activities, 467-468
+naming variables tor. See naming
+header comments for routines, efficiency, 464
+conventions; variable names
+22
+engineering guidelines, 467
+positive effects from, 841
+high-tevel comments from,
+explicit activity for, 466
+private vs. public programs, 842
+226-22
+externai audits, +67
+protessional development,
+iterative refinement, 219, 225
+external characteristics of,
+importance to, 825
+key points for creating, 234
+463-464
+structures, importance of,
+loop design, 385-387
+Exureme Programming. 471~472 733-734
+naming routines, 222
+fiexibility, 464
+warning sign, as a, 849
+performance considerations,
+gates,467
+reading as a skill, 824
+222-223
+General Principle of Software
+reading plan for softwar
+are
+PPP. See PPP
+Quality,+74-475
+developers,860-862
+prerequisites, 221
+integrity, 464
+records, refactoring, 572
+problem definition, 221
+inlernal characteristics, 464-465 recursion
+refactoring, 229
+key points, 477
+alternatives to, 398
+reviewing, 224-225
+maintainability, 464
+checklist, 410
+routines, steps in creating, 217,
+measurement of results, 468
+defined, 393
+multiple defect detection
+testing, planning for, 222
+techniques recommended,
+tonals using, 397-398
+Pseudocode Programming Process.
+470-471
+397-398
+Sce PP
+tives.
+objectives, setting, 466, +68-469
+guidelines for, 394
+psychological distance, 556
+optimization conflicts, 465-466 key points, 410
+psychological set, 554-555
+percentage of defects
+maze cxample, 394-396
+psychological factors. See character
+measurement,469-472
+satety counters for, 396
+personal
+portability, 464
+single routine guideline, 396
+public data members, 567
+s layo
+programmer performance,
+sorting example, 393-394
+pure blocks layout style, 738-740
+objectives based, 468-469
+stack space concerns, 397
+Python
+prototyping, 468
+terminating, 396
+description of, 65
+readability, 464
+relactoring
+performance issues, 600
+recommended combination for,
+80/20rule,582
+473
+adding routines, 582
+relationships of characteristics
+algorithms,573
+quality assurance. See also quality of
+465-466
+sottware
+reliability, 464
+backing up old code, 579
+checklist, 7o
+resources for, 476
+bidirectional class associations
+good practices table for, 31-32
+reusability, 464
+577
+boolean expressions, 572
+prerequisites role in, 24
+reviews, 467
+requirements checklist, 42-43
+robustness, 464
+case statements, 57
+quality gates, 467
+standard s. IEEE 477, 814
+checklists for, 570, 577-579
+testing45.6750-502
+checkpoints for, 580
+代大全(第2版)
+
+<==========================944end ==============================>
+<==========================945start==============================>
+
+该书下载自-书部落分享计算机经典巨著!--www ! --www.shubulo.com!^.com!仅供试看
+908
+索引
+relactoring, continued
+reviews of, 580-581
+development process effects on,
+class cohesion indicator, 566
+risk levels of, 581
+40
+class interfaces. 575-576
+routines, 565-567, 573-574, 578, dumping projects, 41
+classes,566-567,574-576
+582
+errors in, effects of, 38-39
+578-579,582
+safety guidelines, 579-581, 584 fu
+code tuning, compared to, 609 setup code, 568-569
+runctional, checklist, 42
+collections,572
+size guideline, 580
+importance of, 38-39
+comments on bad code, 568
+statement-level, 572-573
+1
+key point for, 60
+complex modules, 583
+577-578
+conditiona.
+nditonal expressions, 573
+strategies for, 582-584
+nonfunctional, checklist, 42
+constant values varying among
+performance tuning, 589
+subclasses, 567,575
+subclass,574
+quality, checklist, 42-43
+superclasses,575
+rate of change, typical, 563
+constructors to factory methods, system-level, 576-577,579
+577
+resources on developing, 56-57
+takedown code, 568-569
+stability of, 39-40, 840
+data from uncontrolled sources, testing, 580
+testing for, 503
+576
+to do lists for, 580
+time allowed for, 55-56
+data sets, related, as indicator, 566 tools for, 714-715
+data types sses,
+resource management
+tramp data, 567
+architecture for, 47
+defects, fixes of, 582
+ugly code, interfaces to, 583-584 cleanup example, 401-402
+defined, 565
+unidirectional class associations,
+577
+restrictive nature of design, 76
+designing code for future needs, unit tests for, 580
+restructuring tools, 715
+569-570
+retesting. See regression testing
+variables, 571
+return statemenls
+Don't Repeat Yourself principle,
+565
+terearnings, compiler, 580
+checklist,410
+duplicate code indicator, 565
+guard clauses, 392-393
+regression testing
+error-prone modules, 582
+diff tools for, 524
+key points, 410
+multiple, from one routine
+expressions, 571
+defined, 50
+391-393
+global variables, 568
+purpose of, 528
+GUI data, 576
+readability, 391-392
+reliability
+if statements, 573
+resources for, 408
+cohesive routines, 168
+reusability
+interfaces,566,575-576,579
+emned, 464
+defined, 464
+key points, 585
+religious attitude toward
+architecture prerequisites, 52
+listing planned steps, 580
+programming
+reviewer role in inspections, 486
+loops,565,573
+eclecticism, 851-852
+reviews
+m
+experimentation compared to, code reading, 494
+maintenance triggering. 583
+852-853
+middleman classes, 567
+dog-and-pony shows, 495
+harmful effects of, 851-853
+misuse of, 582
+educational aspect of, 482
+layout styles becoming, 735
+null objects, 573
+every line of code rule, 663
+managing people, 683-684
+objects, 574-576
+formal inspections, compared to,
+software oracles, 851
+485
+one-at-a-time rule, 580
+reports. See formal inspections
+overloaded primitive data types, requirements
+formal, quality from, 467
+in
+567
+bunefits of, 38-39
+mntormal, delined, 467
+iteration process, place in, 850
+parallel modifications required
+indicator,566
+business cases for, 41
+refactoring conducting after,
+change-control procedures, 40-41 580-581
+parameters, 566, 571, 573
+PPP coding step, 229
+checklists for, 40, 42-43
+walk-throughs, 492-493
+public data members, 567
+coding without, 26
+right shifting, 63
+communicating
+queries, 574
+catng changes in, 40-41 risk-oriented integration, 699
+completeness
+checklis
+reasons not to, 571
+s.43
+robustness
+contiguration management of
+records,572
+664666-667
+arcnitecture prerequisites, 51
+redesigning instead of, 582
+detined, 38
+assertions with error handling,
+reference objects, 574
+met
+193-194
+resources on, 585
+development approaches with, 41 correctness, balanced against, 197
+defined, 197, 464
+代码大全(第2版)
+
+<==========================945end ==============================>
+<==========================946start==============================>
+
+该书下载自-书部落分享计算机经典巨著!-www. !--www.shubulo.com!^.com!仅供试看
+索引
+909
+rounding ertors, 297
+functions, special considerations reasons for creating, list of, 167
+routines
+。
+for,181-182
+refactoring, 229, 573-575,578,
+abstract overridable, 145
+hacking approach to, 233
+582
+abstraction benefit,164
+header comments for, 2
+reliability fr
+cohesiveness, 168
+abstraction with object
+high quality, counterexample,
+removing errors, 231
+parameters, 179, 574
+a
+6161-163
+repeating steps, 232
+s. See
+access. see access routines
+algorithm selection for, 223,573
+high-level comments from
+m
+returns from, multiple, 391-393
+pseudocode, 226-227
+alternates to PPP, 232-233
+importance of, 163
+reviewing pseudocode, 224-225
+sequence hiding benefit, 165
+black-box testing of, 502
+in keyword creation, 175-176
+sequential cohesion, 168
+blank lines in, 766
+indentation of, 766-768
+setup code lor, refactoring
+boolean test benefit, 165
+internal design, 87
+568-569
+calculation to function example, inline, 184-185
+similar parameters, order for, 176
+166-167
+input-modify -output parameter
+similar, refactoring, 574
+calls, costs of, 601
+simple, usefulness of, 166-167
+checking for errors, 230-231
+size as refactoring indicator,
+checklists, 185,774, 780
+interface statements,
+iterating pseudocode, 225
+565-566
+classes, converting to, criteria for, key points for, 186, 234
+small vs. large, 166, 173-174
+573
+specification example, 221
+cleanup steps, 232
+layout of, 754, 766-768
+length of, guideline for. 173-174
+stepping through code, 231
+code tuning, 639-640
+ations, documenting, 808 strength, 168
+co
+ding from pseudocode,
+subclassing benefit, 165
+low-quality example, 161-163 temporal cohesion, 169
+cohesion, 168-171
+test-first development, 233
+caincidental cohesion, 170
+mentall
+g for errors, 230 testing, 222, 231, 523
+mmenting.805-809817
+0
+communicational cohesion, 169
+multiple returns from, 391-393 tramp data in, 567
+named parameters in, 180
+unused, refactoring, 576
+compling for errors,230-231
+naming, 171-173, 222, 277-278, valid reasons for creating.
+complexity metric, 458
+164167
+co
+complexity reduction benefit, 164 nested deeply, 164
+variable names, differentiating
+construction step for classes,
+from, 272
+continuations in call lines, 756
+objects, passing to, 179, 574
+wrong class, indicator for, 566
+coupling considerations, 100-102 overridable vs. non-overridable
+run time, binding during, 253
+data states, 509
+routines, 145-146
+data structures for, 224
+declarations, 226
+overridden to do nothing.
+146-147
+S
+defined, 161
+overriding, 156
+so79
+descriptiveness guideline for parameters. See parameters of
+sandwich integration, 698-699
+naming, 171
+routines
+scaffolding
+design by cantract, 233
+performance considerations, 165, debugging with, 558
+designing, 86, 220-225
+222-223
+testing.523-524,531
+documentation, 178, 780
+pointer hiding benefit, 165
+scalability, 48. See also size of
+portability benefit, 165
+projects
+duplication benefit, 164-165
+postconditions, 221
+endline layout, 767
+dist
+scientific method, classic steps in.
+PPP checklist for, 233-234
+540
+error handling considerations,
+preconditions, 221
+SCM(software configuration
+prerequisites, 221
+management), 665. See also
+errors in, relation to length of, 173
+configuration management
+event handlers, 170
+Droceu de tiabtion27
+schedules, estimating. See estimating
+fields of objects, passing to, 574
+procedure naming guideline, 172
+sch
+files, layout in, 772
+schedules
+functional cohesion, 168-169
+pseudocode writing step,
+scope of variables
+223-224
+ies
+convenience argument, 250
+functionality from libraries, 222 public, using in interfaces
+defined, 244
+concern, 141
+global scope, problems with, 251
+queries, refactoring, 574
+代大全(第2版)
+
+<==========================946end ==============================>
+<==========================947start==============================>
+
+该书下载自书部落分享计算机经典巨著!--www. ! --www.shul.com!仅供试看^
+910
+索引
+scope of variables, continued
+size of projects
+software evolution
+grouping related statements.
+activities, list of fastest growing,
+background for, 563-564
+249-250
+655
+Cardinal Rule of, 565
+activity types, effects on, 654-655 construction vs. maintenance.
+language differences, 244
+building metaphor for, 19
+564
+live time, minimizing. 246-248
+communications between people, improving vs. degrading direction
+localizing references to variables, 650
+of,564
+245
+complexity, effect of, 656-657
+philosophy of, 564-565
+loop initializations, 249
+defects created, effects on,
+software metaphors. See metaphors,
+manageability argument, 251
+software
+minimizing. guidelines for,
+documentation requirements, software oracles, 851
+249-251
+657
+software quality. See quality of
+restrict and expand tactic, 250
+estimation errors.
+sotware
+span of variables, 245
+formnality requirements, 657
+Software's Prima
+value assignments, 249
+key points, 659
+are's Primary Technical
+imperative, 9
+variable names, effects on
+methodology considerations, software-development libraries
+262-263
+657-658
+bibliographies,858
+scribe role in inspections, 486
+overview, 649
+scriprs ming
+construction, 856
+productivity, effects on, 653
+magazines, 859-860
+programming tools, as, 722
+ranges in, 651
+overview,855,857-858
+slowness of, 600-601
+resources on, 658-659
+reading plan, 860-862
+SDFs(software development
+res
+single product, multiple users,
+folders),778
+sott ware engineering overviews,
+656
+858
+security,47
+selections, code, 455
+single program, singie user, 656 soltware-engine guidelines,
+system products, 656
+467
+selective data, 254
+self documenting code, 778-781, sizeof(),335
+sorting, recursive algarithm for,
+393-394
+796-797
+sloppy processes, 75-76
+de
+source cod
+semantic coupling,102
+smart poincers, 334
+documentation aspect of, 7
+semantic prefixes, 280-281
+smoke tests, 703
+resource for, 815
+semantics checkers, 713-714
+sentinel tests for loops, 621-623
+soltware accretion metaphor, 15-16 source-code tools
+sequences, code. See also blocks
+software construction overview
+analyzing quality, 713-714
+activities excluded from, 6
+hiding with routines, 165
+beautifiers, 712
+activities in, list of,
+classhierarchy generators, 713
+order of. See dependencies,
+orde
+centrainess to development
+comparatars,556
+code-ordering
+structured programming concept
+process,7
+cross-reference tools, 713
+defined.3-6
+of,454
+data dictionaries, 715
+ot,
+documentation by source code, 7
+Dif tools, 712
+sequential approach, 33-36
+guaranteed done nature of, 7
+editing tools, 710-713
+sequential cohesion, 168
+importance of, 6-7
+Set() routines, 576
+grep. 711
+key points for, 8
+setup code, refactoring, 568-569
+Ds,710-711
+main activities of,
+setup tools, 718
+interface documentation, 713
+percent of total development
+short-tircuit evalu ation, 438-440, process,
+merge tools, 712
+610
+nce in
+metrics repor(ers, 714
+productivity, importance in, 7
+side effects, C++, 759-761
+multiple-file string searches,
+programming as, 5
+711-712
+signing olf on code, 663
+programming vs., 4
+refactoring tools, 714-715
+simple-data-parameter coupling, 101 source code as documentation, 7
+restructuring tools, 715
+tasks in, list of, 5
+single points of control, 30
+semantics checkers, 713-714
+software design. See design
+single-statement blocks, 748-749 softw
+syntax checkers, 713-714
+vare development folders
+templates, 713
+singleton property, enforcing, 104, (SDFs),778
+151
+translators, 715
+software engineering overview of
+version cantrol tools, 715
+resources, 858
+span,245,459
+代码大全(第2版)
+
+<==========================947end ==============================>
+<==========================948start==============================>
+
+该书下载自书部落分享计算机经典巨著!-www. !--www.shubulo.com!^ ^.com!仅供试看
+索引
+911
+specific functional requirements
+string data types
+subsystem design level, 82-85
+checklist, 42
+Clanguage,299-301
+subtraction, 295
+specific nonfunctional requirements
+character sets, 298
+swapping data using structures,
+specification. See requirements
+checklist, 316-317
+conversion strategies, 299
+switch statements. See case
+speed improvement checklist,
+642-643. See also code tuning: initializing, 300
+statements
+pertormance tuning
+localiza
+symbolic debuggers, 526-527
+lization, 298
+syntax, errors in, 549-550, 560.
+magic (literal) strings, 297-298
+713-714
+stabilizing errors, 542-543
+memory concerns, 298, 300
+stair-step access tables, 426-429
+system architecture. See architecture
+standards, overview of, 814
+pointers vs. character arrays,299 system calls
+Unicode, 298, 299
+code tuning, 633-634
+state variables. See status variables string pointers, 299
+statements
+strnepy(), 301
+systerto repena insues. s99-600
+checklist,774
+system dependencies, 85
+strong cohesion,105
+system perturbers, 527
+COnsEeIWurelated elements 755 756 structs. See structures
+system testing, 500
+ends of continuations, 756-757
+system-level refactoring. 576-577,
+recommended, 503
+579
+incomplete, 754-755
+theory of, 505-509
+length of, 753
+refactoring, 572-573, 577-578
+structured programming
+ahtline
+is of 456
+core thesis of, 4
+T
+sequential. See straight-line code
+iteration, 456
+table-driven methods
+status reporting, 827
+overview,454
+advantages of, 420
+bit-level meanings, 803
+selections, 455
+binary searches with, 428
+change, identifying areas of,
+sequences, 454
+case statement approach,
+str
+98-99
+hctures
+421-422
+blocks of data, operations on,
+checklist, 429
+320-322
+code-tuning with, 614-615
+gotos rewritten with, 403-404 checklist for, 343
+creating from expressions, 435
+names for, 266-267
+clarifying data relationships with, days-in-month example, 413-414
+gh-inc coupling of, 102
+320
+defined, 41]
+straight-line code
+classes performing as, 319
+design method, 420
+checklist, 353
+delined, 319
+direct access. See direct access
+clarilying dependencies, 348-350 key points, 344
+tables
+endenctes concept, 347
+depend
+maintenance reduction with, 323 endpoints of ranges, 428
+documentation, 350
+overdoing, 322
+error checking, 350
+flexible-message-format example,
+parameter simplification with,
+416-423
+grouping related statements,
+322
+352-353
+fudging keys for, 423-424
+hidden dependencies, 348
+relationships, clear example of,
+indexed access tables, 425-426,
+320
+428-429
+inalization order, 348
+1
+routine calls with, 322
+insur
+aming routines, 348-349
+insurance rates example, 415-416
+simplifying data operations with, issues in, 412-413
+320-322
+key points, 430
+organization to show
+swapping data, 321-322
+keys for, 423-424
+dependencies, 348
+parameters, eflective, 349
+9
+unstructured data example, 320 lookup issue, 412
+proximity principle, 351
+Visual Basic examples, 320-322
+miscellaneous examples, 429
+abject approach, +22-423
+specific order, required, 347-350 stubs as integration aids, 694, 696
+precomputing calculations, 635
+stubs with debugging aids, 208-209 purpose of, 411-412
+Strategy pattern, 104
+style issues
+stair-step access tables, 426-429
+formatting. See layout
+storage issue. 413
+stratification design goal, 81
+30
+self-documenting code, 778-781
+tr
+strcpy(, 301
+streams, 206
+human aspects of, 683-684
+ranstorming keys, 424
+Tacoma Narrows bridge, 74
+strength. See cohesion
+sub procedures, 161. See also
+takedown code, refactoring,
+r
+toutines
+568-569
+Team Software Process (TSP), 521
+代大全(第2版)
+
+<==========================948end ==============================>
+<==========================949start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!-www. ! --www.shub.com!仅供试看
+912
+索引
+teams. See also managing
+defined-used data paths, 510-512 results, uses for, 502
+construction
+design concerns, 503
+role in software quality assurance,
+build groups, 704
+designs, misunderstanding, 519
+500-502
+developer-view- limitations,50 routines, black-box- testing of,502
+development processes used, developing tests, 522
+scaffolding, 523-524, 531
+840
+diff tools for, 52
+scope of defects, 519
+expanding to meet schedules, 676 driver routines, 523
+selecting cases for convenience.
+managers, 686
+dummy classes, 523
+516
+physical environment, 684-685 dummy files for, 524
+stabilizing errors, 54
+privacy of oflices, 684
+during construcrtion, 50-503
+standards, IEEE, 53
+process, importance to, 839-840
+structured basis testing, 503.
+religious issues, 683-684
+equivalence partitioning, 512
+505-509
+resources on, 685-686
+error checklists for, 503
+stub objects, 523
+size of projects, effects of, 650-653 error data
+style issues, 683-684
+atabases,527
+symbolic debuggers. 526-527
+error guessing, 51
+syslem perturbers, 527
+time allocations, 681
+error presence assumption, 501 system testing,500
+lations in performance,
+errors in resting itself, 522
+testability, 465, 467
+681-683
+expected defect rate, 521-522
+technology waves, determining your fi
+aele
+test case errors, 522
+irst or last recommendation,
+time commitment to, 501-502
+location in, 66-69
+503-504,531
+test-first development, 233
+Template Method pattern, 104
+frameworks for, 522, 524
+tools, list of, 719
+goals of, 501
+unit testing, 499, 545
+temporal cohesior, 169
+good data classes, 515-516
+varying cases, 545
+temporary variables, 267-268
+integration testing, 499
+white-box testing, 500, 502
+testabilit
+defined, 465
+JUnit for, 531
+threading, 337
+key points, 533
+throwaway code, 114
+strategies for, 467
+limitations on developer testing, throwing one away metaphor, 13-14
+test-data generators, 524-525
+504
+time allowances, 55-56
+cest-first development, 233
+log
+g26
+tool version control, 668
+testin
+logic coverage testing, 506
+toolbox approach, 20
+automated testing, 528-529
+maximum normal configurations, tools
+lack.ata classes, 514-515
+bad d
+checklist, 70
+black-box testing, 500
+rement
+easurem
+of,520,529
+debugging. See debugging
+boundary analysis, 513-514
+memory tools,527
+editing. See editing tools
+bounds checking tools, 527
+minimum normal configurations programming. See programming
+cases, creating, 506-508,
+515
+tools
+522-525,532
+nd
+characteristics of, troublesome
+mock objects, 523
+source code. See source-code tools
+nominal case errors, 515
+top-down approach to design
+501
+old data, compatibility with, 516111-113
+checklist, 532
+optimistic programmers
+top-down integration, 694-696
+classes prone to error, 517-518
+limitation, 5
+classifications of errors,518-520
+0
+transcendental functions, 602,634
+outside of construction domain translator tools, 715
+detects, 519
+try-finally statements, 404-405
+erical errors(typos), 519
+planning for, 528
+T-shaped integration, 701
+code coverage testing, 506
+prioritizing coverage, 505
+type casting, avoiding, 334
+component testing, 499
+provability of correctness, 501, rype creation
+compound boundaries. 514
+construction defects, proportion
+505
+C++312
+quality not altected by. 501
+centralization benefit, 314
+of520-521
+coverage of code, 505-509,526
+recommended approach to,
+eckist,318
+classes, compared to, 316
+data flow testing. 500-512
+5
+503-504
+example of, 313-315
+data generators for, 524-525
+record keeping tor,
+for,529-530
+data recorder tools, 526
+guidelines for, 315-316
+regression testing, 500, 528
+debuggers,526-527
+requirements, 503
+3-314
+debugging, compared to, 500
+resources for, 530-531
+代码大全(第2版)
+
+<==========================949end ==============================>
+<==========================950start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--www. !--www.shut.com!仅供试看
+索引
+913
+languages with, evaluation of, accurate description rule,
+data literacy test, 238-239
+314-315
+260-261
+dta tyn
+data type relationship to control
+modification benefit, 314
+bad names, examples of
+structures, 254-255
+naming conventions, 315
+259-260,261
+declaring. See declarations
+Pascal example, 312-313
+boolean variables, 268-269
+global. See global variabl
+partability benefit, 315-316
+predefined types, avoiding, 315
+C language, 275, 278
+hidden meanings, avoiding.
+purpose of, 311-312i
+C++,263,275-277
+256-257
+capitalization, 286
+hybrid coupling, 256-257
+reasons for, 314
+characters, hard to read, 287
+implicit declarations, 239-240
+redefining predefined, 315
+reliability benefit, 314
+checklist, 288-289
+initializing, 240-244, 257
+class member variables, 27
+iterative data, 255
+validation benefit, 314
+key points, 258
+type definitions, 278
+263-264
+live time,246-248,459
+constants,270
+localizing references to, 245
+U
+enumerated types, 269
+looping, 382-384
+UDFs (unit development folders),
+ull description rule, 260-261
+naming. See variahle names
+77
+global, qualifiers for, 263
+persistence of, 251-252
+UDT(user-defined type)
+good names, examples of, 260, Principle of Proximity, 242
+261
+abbreviations, 279-280
+public class members, 576
+i18.120
+homonyms, 286
+refacloring, 571, 576
+understandability, 465. See also
+Java conventions, 277
+reusing, 255-257
+k
+readability
+key points, 289
+scope of. See scope of variables
+Unicode.
+e288-29
+kinds of information in, 277
+selective data, 254
+unit development folders(UDFs),
+length, optimum, 2
+sequential data, 254
+778
+loop indexes, 265
+span of, 245
+unil testing, 499
+misspelied words, 286
+types of. See data types
+UNIX programming environment,
+multiple natural languages, 287
+using all declared, 257
+720
+namespaces, 263
+version control
+unrolling loops, 618-620
+numerals in, 286
+commenting, 811
+unswitching loops, 616-617
+apposite pairs for, 264
+debugging aid removal, 207
+upstream prerequisites. See
+phonic abbreviations, 283
+prerequisites, upstream
+problem orientation rule, 261
+tools for, 668, 715
+usability,463
+psychological distance, 556
+coupling criteria for, 100
+used data state, 509-510
+purpose of, 240
+user-defined type(UDT)
+reserved names, 287
+classes, of, 93
+vision statement prerequisites. See
+abbreviations, 279-280
+routine names, differentiaring
+problem delinition
+f
+user interfaces
+trom, 272
+prerequisite
+refacecture prerequisites, 47
+scope, effects of, 262-263
+Visual Basic
+refactoring data from, 576
+similarity of names, too much
+285
+assertion examples, 192-194
+subsystem design, 85
+blocking style, 738
+9
+speciticity rule, 261
+case-insensitivity, 273
+status variables, 266-267
+V
+description of, 65
+temporary variables, 267-268
+enumerated types, 303-30
+validation.
+type names, differentiating from
+exceptions in, 198-199, 202
+assumptions to check, list of, 190
+2-273
+a types, suspicious, 188
+Visual Basic, 279
+implicit declarations, turning off,
+240
+enumerated types for, 304-305
+variables
+external data sources rule, 188
+binding time fo
+layout recommended, 745
+eor252-24
+naming conventions for, 278-279
+input parameters rule, 188
+change, identifying areas of,
+parameters example, 180
+variable names
+98-99
+abbreviation guidelines, 282
+checklist for using, 257-258
+resources tor. 159
+structures, 320-322
+comments for, 803
+counters, 243
+c
+代码太全(第2版)
+
+<==========================950end ==============================>
+<==========================951start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!-ww. ! --www.shubu ^.com!仅供试看
+914
+索引
+W
+purpose of, 368
+wicked problems, 74-75
+walk-throughs, 492-493,495-496 tests, position of, 369
+Wikis, 117
+warning signs, 848-850
+white space
+WIMP syndrome, 26
+while loops
+blank lines, 737, 747-748
+WISCA syndrome, 26
+advantages of, 374-375
+defined, 732
+workarounds, documenting. 800
+break stalements, 379
+grouping with, 737
+writing metaphor for coding. 13-14
+do-while loops, 369
+importance of, 736
+369-3
+exits in, 369-372
+indentation. 737
+individual statements with,
+Z
+753-754
+zero, dividing by, 292
+misconception ot evaluation.
+null statements with, 444
+white-box testing, 500, 502
+代码大全(第2版)
+
+<==========================951end ==============================>
+<==========================952start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--ww. !--www.shubulo.co.com!仅供试看^
+
+<==========================952end ==============================>
+<==========================953start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--ww. !--www.shubulo.co.com!仅供试看^
+
+<==========================953end ==============================>
+<==========================954start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--ww. !--www.shubulo.co.com!仅供试看^
+
+<==========================954end ==============================>
+<==========================955start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--ww. !--www.shubulo.co.com!仅供试看^
+
+<==========================955end ==============================>
+<==========================956start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--ww. !--www.shubulo.co.com!仅供试看^
+
+<==========================956end ==============================>
+<==========================957start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--ww. !--www.shubulo.co.com!仅供试看^
+
+<==========================957end ==============================>
+<==========================958start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--ww. !--www.shubulo.co.com!仅供试看^
+
+<==========================958end ==============================>
+<==========================959start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--ww. !--www.shubulo.co.com!仅供试看^
+
+<==========================959end ==============================>
+<==========================960start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--ww. !--www.shubulo.co.com!仅供试看^
+
+<==========================960end ==============================>
+<==========================961start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--ww. !--www.shubulo.co.com!仅供试看^
+
+<==========================961end ==============================>
+<==========================962start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--ww. !--www.shubulo.co.com!仅供试看^
+
+<==========================962end ==============================>
+<==========================963start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--ww. !--www.shubulo.co.com!仅供试看^
+
+<==========================963end ==============================>
+<==========================964start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--ww. !--www.shubulo.co.com!仅供试看^
+
+<==========================964end ==============================>
+<==========================965start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--ww. !--www.shubulo.co.com!仅供试看^
+
+<==========================965end ==============================>
+<==========================966start==============================>
+
+该书下载自-书部落-分享计算机经典巨著!--ww. !--www.shubulo.co.com!仅供试看^
+
+<==========================966end ==============================>
